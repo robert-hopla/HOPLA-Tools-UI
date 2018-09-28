@@ -31,6 +31,12 @@
   "name": "App Bar / Top App Bar / Regular / Flat / Primary Color",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ACF83ACD-5CF0-4D48-90F6-8AA50307E01A",
+      "overrideName": "2A1EB7F9-DFAD-4C37-90FB-D7B0694602EF/5CFFEB67-F6EA-4F38-B0A2-5CAF91996170_stringValue",
+      "value": "Heading new"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

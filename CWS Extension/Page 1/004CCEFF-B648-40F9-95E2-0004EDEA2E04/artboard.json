@@ -35,8 +35,8 @@
     "do_objectID": "3B368BD0-3080-426E-9A44-7E4DEFEA3441",
     "height": 1024,
     "width": 360,
-    "x": 1482,
-    "y": 135
+    "x": 1579,
+    "y": 128
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "MSImmutableHotspotLayer",
@@ -114,6 +114,7 @@
           }
         ],
         "defaultStateName": "state1",
+        "nestedSymbolsCacheKey": "K0o4wNm6wz+3SOitC6+HPCUjqVIFQQWpty6Ty864sJQ=",
         "states": [
           {
             "model_class": "ADModelViewState",

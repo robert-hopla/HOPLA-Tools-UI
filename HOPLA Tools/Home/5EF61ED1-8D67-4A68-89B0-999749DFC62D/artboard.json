@@ -51,18 +51,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "94801158-7A2A-4E6E-843F-C7351981805E"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
-      "id": "B5DD81ED-D1C3-4CCA-ABE6-F90065B9854F"
     }
   ],
-  "name": "Desktop2",
+  "name": "Home",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

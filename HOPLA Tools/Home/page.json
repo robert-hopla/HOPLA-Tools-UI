@@ -1,7 +1,7 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": -1,
-  "do_objectID": "94801158-7A2A-4E6E-843F-C7351981805E",
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "8765fff0-c293-11e8-a3bc-93d7eb3e0f06",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,26 +14,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 360,
+    "height": 300,
+    "width": 300,
     "x": 0,
     "y": 0
   },
-  "horizontalSpacing": 0,
-  "isFixedToViewport": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "App Bar / Top App Bar / Regular / Flat / Primary Color",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "5EF61ED1-8D67-4A68-89B0-999749DFC62D"
+    }
   ],
+  "name": "Home",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -42,12 +52,15 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D4D63B6B-377D-4B2C-93EA-77C0733C4D82",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
+      "com.animaapp.animaPageID": "1C2CA4E8-0E48-44FA-BDC2-68306976C5B4"
     }
   },
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
 }
