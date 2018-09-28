@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,19 +8,11 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "5EF61ED1-8D67-4A68-89B0-999749DFC62D",
+  "changeIdentifier": 327,
+  "do_objectID": "8723C62F-074C-4FAA-A5D1-4C471B1F113A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -30,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 360,
-    "x": 930,
-    "y": 135
+    "height": 80,
+    "width": 100,
+    "x": 100,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -51,30 +44,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "94801158-7A2A-4E6E-843F-C7351981805E"
+      "class": "text",
+      "id": "67120277-E90A-4A61-A898-FB13B7C3F8F4"
     },
     {
-      "class": "group",
-      "id": "3031402D-12A4-4867-A041-A6AAF7F701F8"
-    },
-    {
-      "class": "group",
-      "id": "4F5DFBB5-A743-4C25-A78E-D3DDFE3DB8BF"
+      "class": "bitmap",
+      "id": "8FA0CB16-3209-4CC0-8959-0F17B0CDBBDA"
     }
   ],
-  "name": "Home",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop",
-    "offersLandscapeVariant": 0,
-    "width": 1024
-  },
+  "name": "main_menu_item",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -87,13 +69,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "nestedSymbolsCacheKey": "K0o4wNm6wz+3SOitC6+HPCUjqVIFQQWpty6Ty864sJQ="
-      }
-    }
-  },
+  "symbolID": "E8417661-8212-4C1F-85F1-B5357A42E14E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

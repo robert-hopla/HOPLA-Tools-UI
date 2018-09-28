@@ -7748,6 +7748,55 @@
     }
   ],
   "foreignTextStyles": [
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "EA9A3456-D205-45BC-B018-87FAFB3282A4",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "059BA9A9-A64C-4364-92E7-BC3B5F7FED6F",
+        "name": "Button / Black / Medium Emphasis / Left",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "sharedObjectID": "059BA9A9-A64C-4364-92E7-BC3B5F7FED6F",
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 0.6,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Roboto-Medium",
+                  "size": 14
+                }
+              },
+              "MSAttributedStringTextTransformAttribute": 1,
+              "kerning": 1.25,
+              "ligature": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 16,
+                "minimumLineHeight": 16
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "6BC6CD45-0DA1-4193-B6EF-1C37DC9032D1",
+      "sourceLibraryName": "Baseline"
+    }
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -7760,6 +7809,8 @@
     "version": 105
   },
   "pages": [
-    "Home"
+    "Home",
+    "Gmail",
+    "Symbols"
   ]
 }
