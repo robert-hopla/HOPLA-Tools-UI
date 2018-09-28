@@ -1,10 +1,9 @@
 {
   "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "3031402D-12A4-4867-A041-A6AAF7F701F8",
+  "do_objectID": "79A375F2-C965-4B56-8E86-C02B666AD318",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "26553927-4394-4D0A-88B8-ACCA50218779",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CF9F16C8-7369-4CAB-A349-0C6433D18F76",
-    "height": 80,
-    "width": 346,
-    "x": 7,
-    "y": 175
+    "height": 100,
+    "width": 360,
+    "x": 0,
+    "y": 100
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -27,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -35,11 +33,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7349E2A3-BABC-4FD8-878A-739B628605FD"
+      "id": "180E9D13-223F-4633-83F3-5D11D4C6C623"
     },
     {
-      "class": "symbolInstance",
-      "id": "180E9D13-223F-4633-83F3-5D11D4C6C623"
+      "class": "group",
+      "id": "C58065D4-4486-453C-815E-2647741360BA"
     }
   ],
   "name": "Row 2",
@@ -50,7 +48,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E03135DF-B226-4558-9694-A19139FE2AC5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -59,7 +56,12 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-      }
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
     }
   }
 }

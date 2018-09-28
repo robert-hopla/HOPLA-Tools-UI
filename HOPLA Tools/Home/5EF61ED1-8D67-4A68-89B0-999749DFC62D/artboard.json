@@ -32,7 +32,7 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 360,
-    "x": 930,
+    "x": 994,
     "y": 135
   },
   "hasBackgroundColor": false,
@@ -54,16 +54,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "4D4B6181-F8FC-45C4-9F98-49EE8479B013"
+    },
+    {
       "class": "symbolInstance",
       "id": "94801158-7A2A-4E6E-843F-C7351981805E"
-    },
-    {
-      "class": "group",
-      "id": "3031402D-12A4-4867-A041-A6AAF7F701F8"
-    },
-    {
-      "class": "group",
-      "id": "4F5DFBB5-A743-4C25-A78E-D3DDFE3DB8BF"
     }
   ],
   "name": "Home",

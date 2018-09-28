@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 327,
+  "changeIdentifier": 404,
   "do_objectID": "8723C62F-074C-4FAA-A5D1-4C471B1F113A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,8 +22,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 100,
+    "height": 100,
+    "width": 120,
     "x": 100,
     "y": 0
   },
@@ -47,12 +47,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "67120277-E90A-4A61-A898-FB13B7C3F8F4"
-    },
-    {
-      "class": "bitmap",
-      "id": "8FA0CB16-3209-4CC0-8959-0F17B0CDBBDA"
+      "class": "group",
+      "id": "935DED38-3961-4DC1-A703-30C18B69DEC9"
     }
   ],
   "name": "main_menu_item",

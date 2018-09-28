@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "180E9D13-223F-4633-83F3-5D11D4C6C623",
+  "do_objectID": "CE2EF27D-39F4-4E08-9844-26626E2ABC81",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B04961F7-DEEE-44C0-97D3-6CE450879753",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,9 +14,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6098205F-00BE-41B3-8941-F570C4BE1B03",
-    "height": 80,
-    "width": 100,
+    "height": 100,
+    "width": 120,
     "x": 0,
     "y": 0
   },
@@ -37,7 +35,7 @@
       "overrideName": "8FA0CB16-3209-4CC0-8959-0F17B0CDBBDA_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/9f8498fa8a4972bccb7d7d91e1f173ba25a0f987.png",
+        "_ref": "images/a00f088c565856ffffbe0e7a1c8ad23842356589.png",
         "_ref_class": "MSImageData"
       }
     },
@@ -45,7 +43,7 @@
       "_class": "overrideValue",
       "do_objectID": "B2309D39-10D5-4B52-8B4D-B6E7AC91418D",
       "overrideName": "67120277-E90A-4A61-A898-FB13B7C3F8F4_stringValue",
-      "value": "teams"
+      "value": "gmail"
     }
   ],
   "resizingConstraint": 63,
@@ -55,7 +53,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "343897E7-22C6-42B1-91BD-47AC872B363F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
