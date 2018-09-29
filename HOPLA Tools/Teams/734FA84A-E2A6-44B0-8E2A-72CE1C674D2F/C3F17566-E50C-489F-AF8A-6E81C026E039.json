@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "4A76CBF7-E954-4F4F-BA9F-30D241EC6A14",
+  "do_objectID": "C3F17566-E50C-489F-AF8A-6E81C026E039",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F9026F19-9CB0-4E27-A5F1-551E60073CA9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 16,
-    "y": 16
+    "do_objectID": "4E49653E-EC84-4B14-BC6C-C085F73BD408",
+    "height": 150,
+    "width": 150,
+    "x": 1116,
+    "y": 466
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,23 +28,30 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icon / HOPLA_Tools",
+  "name": "map_marker",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A726AEB-06CF-4D4F-8EF7-5D8ACCFF6488",
+      "overrideName": "C6E26C65-2AC7-49F8-985F-E2D8CD902A02_symbolID",
+      "value": "4BB37382-3F96-46DD-A510-A7CE65EBB95E"
+    }
   ],
-  "resizingConstraint": 41,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "1C40C848-79B1-48C1-B91F-C32ACDECBAA2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3DC1B30F-EBA8-4360-A6B7-C98532A55C1F",
+  "symbolID": "F6407C7B-CFA7-4185-929A-FC344AA28B52",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

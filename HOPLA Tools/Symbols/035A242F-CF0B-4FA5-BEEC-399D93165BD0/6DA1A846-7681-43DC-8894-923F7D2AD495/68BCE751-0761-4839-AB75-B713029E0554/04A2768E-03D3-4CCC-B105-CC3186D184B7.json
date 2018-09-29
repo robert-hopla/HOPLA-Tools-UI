@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "4A76CBF7-E954-4F4F-BA9F-30D241EC6A14",
+  "do_objectID": "04A2768E-03D3-4CCC-B105-CC3186D184B7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,9 +15,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 24,
-    "x": 16,
-    "y": 16
+    "width": 148,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,11 +26,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icon / HOPLA_Tools",
+  "name": "user_info",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 41,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -42,10 +42,28 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3DC1B30F-EBA8-4360-A6B7-C98532A55C1F",
+  "symbolID": "A4E78828-6696-48D7-AA17-DADC83E96EED",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_754127cf-b546-4c95-a58a-7b1020d23602",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_10a2be34-dbe4-4d0a-89f4-6f925d5325da",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
       }
     }
   },

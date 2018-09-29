@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 122,
-    "x": 424,
-    "y": 16
+    "height": 40,
+    "width": 180,
+    "x": 395,
+    "y": 8
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,19 +25,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "51130235-5EF9-4A9F-959D-EA0EB7269CD8"
+    },
     {
       "class": "text",
       "id": "FBF288C1-099E-411F-B45D-39A36A3E2592"
     },
     {
       "class": "symbolInstance",
-      "id": "51130235-5EF9-4A9F-959D-EA0EB7269CD8"
+      "id": "66DB6D68-51FF-4E8C-A385-794873E6A19D"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "team_select",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -52,7 +56,12 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-      }
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 10,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
     }
   }
 }

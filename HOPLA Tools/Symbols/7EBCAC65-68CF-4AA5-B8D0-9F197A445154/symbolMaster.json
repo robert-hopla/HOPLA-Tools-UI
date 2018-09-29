@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 125,
-  "do_objectID": "0B9AB7FA-EC54-4855-A179-572EE2563FD1",
+  "changeIdentifier": 1333,
+  "do_objectID": "7EBCAC65-68CF-4AA5-B8D0-9F197A445154",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 150,
-    "width": 150,
-    "x": 2364,
-    "y": 580
+    "height": 320,
+    "width": 480,
+    "x": 2071,
+    "y": 220
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,18 +44,26 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "C6E26C65-2AC7-49F8-985F-E2D8CD902A02"
+      "class": "bitmap",
+      "id": "A5E083A3-D761-4C36-B9D4-302D39EBCD92"
     },
     {
       "class": "symbolInstance",
-      "id": "97FBCAE6-E5C7-4BEA-834A-F724CF2AD43A"
+      "id": "ECEE51E7-5BBD-46B9-9EC4-CAB253ADAD62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E7D816B-6125-42AC-BCE6-683815D656A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9473F656-923C-490D-BDF2-3B449994E86C"
     }
   ],
-  "name": "map_marker",
+  "name": "grid_user",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -69,7 +77,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F6407C7B-CFA7-4185-929A-FC344AA28B52",
+  "symbolID": "E3594008-3426-40F8-8889-20673B5631E1",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

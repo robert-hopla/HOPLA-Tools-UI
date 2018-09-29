@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "734FA84A-E2A6-44B0-8E2A-72CE1C674D2F",
+  "changeIdentifier": 146,
+  "do_objectID": "0B9AB7FA-EC54-4855-A179-572EE2563FD1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
-    "x": 804,
-    "y": 42
+    "height": 150,
+    "width": 150,
+    "x": 1629,
+    "y": 238
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -35,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -42,18 +44,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C6E26C65-2AC7-49F8-985F-E2D8CD902A02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97FBCAE6-E5C7-4BEA-834A-F724CF2AD43A"
+    }
   ],
-  "name": "Desktop HD",
+  "name": "map_marker",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD",
-    "offersLandscapeVariant": 0,
-    "width": 1440
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -65,6 +68,13 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "symbolID": "F6407C7B-CFA7-4185-929A-FC344AA28B52",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

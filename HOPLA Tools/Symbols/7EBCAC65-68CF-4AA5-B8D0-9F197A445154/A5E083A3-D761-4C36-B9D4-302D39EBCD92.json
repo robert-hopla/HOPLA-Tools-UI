@@ -2,10 +2,9 @@
   "_class": "bitmap",
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "FA5B0F85-2D1D-416D-93A4-2EBFCFF676B1",
+  "do_objectID": "A5E083A3-D761-4C36-B9D4-302D39EBCD92",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "790BC5C0-6D7C-493A-B050-190937164880",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,15 +16,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "EE8BA812-756E-42FF-8BA3-C1D68D4BE790",
-    "height": 482,
-    "width": 640,
+    "height": 320,
+    "width": 482,
     "x": 0,
     "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/1448702537cf969dd8dcd612abadc567c6959a4f.png",
+    "_ref": "images/6250132617f646131d0d64206dae9d96754e3b89.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -43,7 +41,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2F9F0059-D24A-4C06-95BC-D85AEFC3E3AC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -54,12 +51,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 482,
+            "constant": 363,
             "enabled": 1,
             "modelID": "constraint_14d5d9f4-5191-468d-bd7d-bc1c0c65cfd4",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 639.9833
+            "multiplier": 481.9917
           },
           "automatic": 1,
           "modelID": "viewConstraints_b91b4b2a-a2b5-4d40-ab9b-39f6b74c15f3",

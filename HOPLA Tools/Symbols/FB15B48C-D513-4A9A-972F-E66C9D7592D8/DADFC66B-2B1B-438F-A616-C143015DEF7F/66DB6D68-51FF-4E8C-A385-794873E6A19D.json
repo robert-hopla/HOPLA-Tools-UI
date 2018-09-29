@@ -1,9 +1,10 @@
 {
-  "_class": "group",
-  "booleanOperation": -1,
-  "do_objectID": "9A5CCBE1-1480-477C-8BD0-D3858B21CC9A",
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "66DB6D68-51FF-4E8C-A385-794873E6A19D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "FC585B68-B629-4E36-AD35-A49AD26DC70F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,50 +15,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 58,
-    "x": 895,
-    "y": 16
+    "do_objectID": "C494402D-724E-48F7-A940-9F82CF01DC7A",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "IMAGE",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "symbolInstance",
-      "id": "EDA85928-4599-479A-989D-C2DD9D3C072D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2F109BFA-C43A-4567-9E58-DF073C8F7D94"
+      "_class": "overrideValue",
+      "do_objectID": "3887A4D6-049E-4E17-A9F0-4BED2656059E",
+      "overrideName": "61333083-8676-4ACA-B519-B7B8646FD588_symbolID",
+      "value": ""
     }
   ],
-  "name": "toggle_view",
-  "nameIsFixed": true,
   "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "E1004B73-0D70-45A9-BB8B-6B3E9397E1D7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "DE19AA71-E2B5-4296-B1BC-B5B2D1BB91EC",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "align": 0,
-        "isCollapsing": 1,
-        "spacing": 10,
-        "stackType": 1
-      },
-      "kViewTypeKey": "ADModelStackView"
+      }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

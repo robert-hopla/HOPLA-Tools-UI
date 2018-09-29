@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1564,
+  "changeIdentifier": 1565,
   "do_objectID": "B787AC6A-B4C0-4F05-B8F0-10818DC29BF5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -33,7 +33,7 @@
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 4,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 40
   },
   "hasBackgroundColor": false,

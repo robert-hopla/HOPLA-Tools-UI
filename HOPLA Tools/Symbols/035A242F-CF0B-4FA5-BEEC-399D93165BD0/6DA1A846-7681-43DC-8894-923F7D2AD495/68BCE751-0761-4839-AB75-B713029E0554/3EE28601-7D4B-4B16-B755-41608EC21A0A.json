@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "6175F4FC-82A0-41EB-867C-B6BC48C52AAB",
+  "do_objectID": "3EE28601-7D4B-4B16-B755-41608EC21A0A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4C58D8D3-BF31-4859-BA73-5ED5737A7C29",
+    "do_objectID": "5B7E48E4-DDC9-4B42-A9EF-923C8EC0F088",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C28FCF5C-8E80-4188-B60D-F2EB470F2A16",
+    "do_objectID": "8F40AECC-4A01-44D5-9075-26E8DF8FD351",
     "height": 24,
-    "width": 73,
-    "x": 315,
-    "y": 0
+    "width": 160,
+    "x": 0,
+    "y": 24
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -35,18 +35,18 @@
       "_class": "overrideValue",
       "do_objectID": "AB5F3191-71F2-4485-BDE3-BD72386F1674",
       "overrideName": "78F77FCC-54CD-4BC3-A0D5-A39D93E49E48_symbolID",
-      "value": "EC4810DE-B6FC-4EEF-89BC-6AD9D3BD0DF4"
+      "value": "BF5CC08F-E5B3-411B-B6C2-AFD621D6AE26"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "30BF2D16-CDB4-480A-A297-B3A5F2C91AD4",
       "overrideName": "AE8C963E-EFF0-4DD4-B771-48DF84D40470_stringValue",
-      "value": "13.2"
+      "value": "25m ago"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "16BD431E-A0B8-459E-AC74-0623FEE18664",
-      "overrideName": "78F77FCC-54CD-4BC3-A0D5-A39D93E49E48/4FCDCEFA-BF21-49B2-9C0D-59069EBC90DE_symbolID",
+      "do_objectID": "88CAEC6C-EA4E-468B-8376-760C05F1D55E",
+      "overrideName": "78F77FCC-54CD-4BC3-A0D5-A39D93E49E48/8F71FBEC-8B4A-46BB-AC65-F05D39B71757_symbolID",
       "value": "F9B5514F-3200-4119-A24E-5846402AB63C"
     }
   ],
@@ -57,7 +57,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8D9BACFB-B2F2-4920-B794-1818AB7F844F",
+    "do_objectID": "328D7EBD-95B1-4DE9-B3B5-FC4EB96B4A4A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -67,6 +67,24 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_9b7ff4d8-6c1b-4479-80b2-e294f3ae7b1c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_ca5418e0-5ead-4b59-a502-1581b07e13fc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
       }
     }
   },

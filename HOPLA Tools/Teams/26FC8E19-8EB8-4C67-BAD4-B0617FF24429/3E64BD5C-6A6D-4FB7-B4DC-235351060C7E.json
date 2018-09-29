@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "04A2768E-03D3-4CCC-B105-CC3186D184B7",
+  "do_objectID": "3E64BD5C-6A6D-4FB7-B4DC-235351060C7E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 73,
-    "x": 0,
-    "y": 0
+    "height": 188,
+    "width": 194,
+    "x": 673,
+    "y": 8
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "user_info",
+  "name": "Menu / Exposed",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -42,7 +42,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A4E78828-6696-48D7-AA17-DADC83E96EED",
+  "symbolID": "BB31AE01-262B-44F5-899D-27EC968D9404",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

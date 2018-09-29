@@ -1,7 +1,7 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "9473F656-923C-490D-BDF2-3B449994E86C",
+  "do_objectID": "B9535AE3-514F-4834-A95D-146376C67685",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,26 +14,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 141,
-    "x": 483,
-    "y": 16
+    "height": 72,
+    "width": 87,
+    "x": 337,
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "badge/regular",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "group",
+      "id": "3DA8CF85-BE41-45F2-8131-7C4692F1660A"
+    }
   ],
-  "resizingConstraint": 63,
+  "name": "Stacked Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -42,12 +45,15 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0450BCB6-CF5D-4F88-810E-FCC53E757259",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-      }
+        "align": 3,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
     }
-  },
-  "verticalSpacing": 0
+  }
 }

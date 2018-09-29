@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "7CE2CADF-E88D-4032-A2AF-ADAEC8E44228",
+  "do_objectID": "9473F656-923C-490D-BDF2-3B449994E86C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "94A9CD63-8F50-466E-930B-BB438F38FF1F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B179F2FF-DFDC-491F-8630-BD9F4F668EA7",
-    "height": 80,
-    "width": 640,
-    "x": 0,
-    "y": 357
+    "height": 50,
+    "width": 141,
+    "x": 323,
+    "y": 16
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -28,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "info_bar",
+  "name": "badge/regular",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,13 +37,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "626C328F-7E36-409B-8FE3-F3E72E4B59EA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "91F9E00D-434F-4EFE-83F6-3A8D0A5FB6B8",
+  "symbolID": "0450BCB6-CF5D-4F88-810E-FCC53E757259",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

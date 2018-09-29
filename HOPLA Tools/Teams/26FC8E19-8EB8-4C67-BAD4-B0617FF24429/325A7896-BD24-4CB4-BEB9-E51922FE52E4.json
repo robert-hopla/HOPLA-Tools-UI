@@ -1,7 +1,7 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "9A5CCBE1-1480-477C-8BD0-D3858B21CC9A",
+  "do_objectID": "325A7896-BD24-4CB4-BEB9-E51922FE52E4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,33 +14,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 58,
-    "x": 895,
-    "y": 16
+    "height": 320,
+    "width": 480,
+    "x": 966,
+    "y": 59
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "EDA85928-4599-479A-989D-C2DD9D3C072D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2F109BFA-C43A-4567-9E58-DF073C8F7D94"
-    }
+  "name": "grid_user Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "toggle_view",
-  "nameIsFixed": true,
-  "resizingConstraint": 44,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -49,15 +42,12 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "E3594008-3426-40F8-8889-20673B5631E1",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "align": 0,
-        "isCollapsing": 1,
-        "spacing": 10,
-        "stackType": 1
-      },
-      "kViewTypeKey": "ADModelStackView"
+      }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

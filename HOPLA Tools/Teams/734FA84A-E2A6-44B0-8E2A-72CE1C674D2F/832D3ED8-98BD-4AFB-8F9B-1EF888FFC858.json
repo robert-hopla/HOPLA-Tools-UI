@@ -2,7 +2,7 @@
   "_class": "bitmap",
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "A5E083A3-D761-4C36-B9D4-302D39EBCD92",
+  "do_objectID": "832D3ED8-98BD-4AFB-8F9B-1EF888FFC858",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,14 +16,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 482,
-    "width": 640,
-    "x": 0,
-    "y": 0
+    "height": 969,
+    "width": 2264,
+    "x": -389,
+    "y": 56
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/1448702537cf969dd8dcd612abadc567c6959a4f.png",
+    "_ref": "images/20ee8c82b022af4526fd5b19bdee6c40727af9fb.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -33,8 +33,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "photo",
-  "nameIsFixed": true,
+  "name": "Bitmap",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -51,15 +51,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 482,
+            "constant": 969,
             "enabled": 1,
-            "modelID": "constraint_14d5d9f4-5191-468d-bd7d-bc1c0c65cfd4",
+            "modelID": "constraint_9c74fbc4-4b0b-474e-aa4c-cfeaabd3bd26",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 639.9833
+            "multiplier": 2264.4
           },
           "automatic": 1,
-          "modelID": "viewConstraints_b91b4b2a-a2b5-4d40-ab9b-39f6b74c15f3",
+          "modelID": "viewConstraints_a33241e0-0eb9-44d0-9e24-e03f4fb81494",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

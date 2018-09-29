@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "81D70DCB-7D06-464B-8260-691C7A3D3132",
+  "do_objectID": "0E7D816B-6125-42AC-BCE6-683815D656A6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 640,
+    "height": 320,
+    "width": 20,
     "x": 0,
-    "y": 357
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "info_bar",
+  "name": "status / online",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -42,7 +42,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FBCC68BE-10B5-44A6-B6D6-099523E8726E",
+  "symbolID": "0412A191-8375-4790-8094-5F59FA0D8D1E",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

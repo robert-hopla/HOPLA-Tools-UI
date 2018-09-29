@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "A63F7F77-ADC0-46ED-990B-58D4A73A041D",
+  "do_objectID": "F83A3A34-0CDC-4F28-B725-1545E024FADA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "75119303-1AE3-4AA9-B62E-5C6AD348BE63",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6B3C6D7B-F39A-42BC-9C39-16CA05DEDCD0",
-    "height": 50,
-    "width": 141,
-    "x": 483,
-    "y": 16
+    "height": 320,
+    "width": 480,
+    "x": 6,
+    "y": 379
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -28,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "badge/regular",
+  "name": "grid_user Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,13 +37,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "10D00F0A-E726-467E-8FB7-7326661276E0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F684DD9E-AC0F-4B31-8CDE-B3DB65078007",
+  "symbolID": "E3594008-3426-40F8-8889-20673B5631E1",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "E0A61B94-3D76-4BCE-8942-83DB74E0183B",
+  "do_objectID": "8F64ECB6-85B8-4FB3-850E-7F3410FAADCF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9417BE99-50E4-40D5-9A1F-CB120ED5C883",
+    "do_objectID": "06ABF4F7-1347-427A-84EB-9142C0344247",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "594DD20F-57F8-4D6E-B089-48E0D5C483F4",
+    "do_objectID": "CE25843C-75B1-4DF4-97BD-1FA7C082BD8F",
     "height": 24,
-    "width": 87,
-    "x": 469,
-    "y": 0
+    "width": 61,
+    "x": 0,
+    "y": 24
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -35,18 +35,18 @@
       "_class": "overrideValue",
       "do_objectID": "AB5F3191-71F2-4485-BDE3-BD72386F1674",
       "overrideName": "78F77FCC-54CD-4BC3-A0D5-A39D93E49E48_symbolID",
-      "value": "247508E7-978E-4033-8A89-45477ED0C4BD"
+      "value": "6F32AA49-157B-435C-A964-EAB8FB58C542"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "30BF2D16-CDB4-480A-A297-B3A5F2C91AD4",
       "overrideName": "AE8C963E-EFF0-4DD4-B771-48DF84D40470_stringValue",
-      "value": "22ms"
+      "value": "3.7"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2E7F7E3A-62C2-417B-BE33-86BDE5CAD2C6",
-      "overrideName": "78F77FCC-54CD-4BC3-A0D5-A39D93E49E48/3085A69F-2EF8-4E87-BFE0-DB96F7D3E573_symbolID",
+      "do_objectID": "56D3C060-3495-4AD6-ABE7-907590E79FCC",
+      "overrideName": "78F77FCC-54CD-4BC3-A0D5-A39D93E49E48/2DD152F6-95F7-4F83-B2B9-D2A068D5F75E_symbolID",
       "value": "F9B5514F-3200-4119-A24E-5846402AB63C"
     }
   ],
@@ -57,7 +57,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F2626CEB-1410-46E0-9317-36287BC4EA11",
+    "do_objectID": "5ACD1D2E-F714-4814-BFF4-95AD6E708385",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -67,6 +67,24 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_4aae3ee8-b7ee-4208-9f1c-1c822357d766",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_3682b2a3-f6de-4eae-a253-15af433fafe4",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
       }
     }
   },

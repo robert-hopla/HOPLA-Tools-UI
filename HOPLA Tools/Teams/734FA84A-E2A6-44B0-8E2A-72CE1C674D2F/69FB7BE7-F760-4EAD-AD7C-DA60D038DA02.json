@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "4A76CBF7-E954-4F4F-BA9F-30D241EC6A14",
+  "do_objectID": "69FB7BE7-F760-4EAD-AD7C-DA60D038DA02",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 16,
-    "y": 16
+    "height": 56,
+    "width": 1441,
+    "x": -1,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,11 +26,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icon / HOPLA_Tools",
+  "name": "App Bar / Top App Bar / Custom / Browser",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34ED6C5D-0B96-4339-B8D7-1E6D1AECCAA0",
+      "overrideName": "2F109BFA-C43A-4567-9E58-DF073C8F7D94/2E543AE7-79F9-4285-AC7A-78FB7AC27E8E_symbolID",
+      "value": "F9B5514F-3200-4119-A24E-5846402AB63C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C485A986-05F2-4AFD-9C90-2A9FB80FA99E",
+      "overrideName": "EDA85928-4599-479A-989D-C2DD9D3C072D/D7B11925-B970-4C6C-AAB9-3463FAB27EB5_symbolID",
+      "value": "EC577ACD-D715-466A-B66C-9C0CE8917528"
+    }
   ],
-  "resizingConstraint": 41,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -42,7 +54,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3DC1B30F-EBA8-4360-A6B7-C98532A55C1F",
+  "symbolID": "BDAB6384-7F01-4077-8414-CB2605ED82D1",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
