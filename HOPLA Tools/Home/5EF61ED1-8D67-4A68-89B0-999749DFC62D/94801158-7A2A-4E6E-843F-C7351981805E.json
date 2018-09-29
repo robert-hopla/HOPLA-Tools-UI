@@ -32,26 +32,32 @@
     {
       "_class": "overrideValue",
       "do_objectID": "A48F2107-3FF2-424A-8D1A-698D6AC12315",
-      "overrideName": "2A1EB7F9-DFAD-4C37-90FB-D7B0694602EF/5CFFEB67-F6EA-4F38-B0A2-5CAF91996170_stringValue",
+      "overrideName": "475F1CD1-3768-4735-BF49-AC1879330C80/5CFFEB67-F6EA-4F38-B0A2-5CAF91996170_stringValue",
       "value": "HOPLA Tools"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "475B6AB5-A4D6-4062-B6E7-7CF673796284",
-      "overrideName": "80E13351-30FF-4277-8A8D-EEA4B209A636/CDF0FAE0-F5DC-4458-8ADC-736BB44A6042_symbolID",
+      "overrideName": "ACC9341D-B7FE-414D-91BD-94C3393F1866/CDF0FAE0-F5DC-4458-8ADC-736BB44A6042_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
       "do_objectID": "FB219AB0-4A02-4FC6-8D97-96B5E0A16C79",
-      "overrideName": "80E13351-30FF-4277-8A8D-EEA4B209A636/72E24D9B-847B-465B-B9BF-43C649F45723_symbolID",
+      "overrideName": "ACC9341D-B7FE-414D-91BD-94C3393F1866/72E24D9B-847B-465B-B9BF-43C649F45723_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
       "do_objectID": "B1796CC2-26AB-4BB4-A31F-139329C5537C",
-      "overrideName": "80E13351-30FF-4277-8A8D-EEA4B209A636/18322187-BEDF-4392-924D-8186A28D0615_symbolID",
+      "overrideName": "ACC9341D-B7FE-414D-91BD-94C3393F1866/18322187-BEDF-4392-924D-8186A28D0615_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0EB551A0-3FE5-4937-BB41-9EE06DE61C98",
+      "overrideName": "ACC9341D-B7FE-414D-91BD-94C3393F1866/C6D66D92-9DF4-4C93-A1B2-F20598F13B0E_symbolID",
+      "value": "3DC1B30F-EBA8-4360-A6B7-C98532A55C1F"
     }
   ],
   "resizingConstraint": 63,

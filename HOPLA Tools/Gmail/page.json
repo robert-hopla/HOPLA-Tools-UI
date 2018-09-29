@@ -34,6 +34,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "1147CF0E-C35C-4413-B282-EA75DB3F992A"
+    }
   ],
   "name": "Gmail",
   "nameIsFixed": true,

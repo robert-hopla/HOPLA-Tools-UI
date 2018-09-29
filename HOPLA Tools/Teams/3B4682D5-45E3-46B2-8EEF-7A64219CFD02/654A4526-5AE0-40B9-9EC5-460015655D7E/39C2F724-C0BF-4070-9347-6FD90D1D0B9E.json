@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "39C2F724-C0BF-4070-9347-6FD90D1D0B9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFFA7DDD-32FD-4A0C-86EC-B95204DCA4AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "254D8F94-1BD9-4B24-8F95-1D12A4F526B3",
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 318
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Single Line / Select",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4292D1D-8D6A-4983-B8A3-0143AE7F14E0",
+      "overrideName": "CB34D260-BC8E-4FC5-ABDC-DC1793C354DE/47EDEAB5-B6AE-44AF-B6C9-197F450AE9B7_stringValue",
+      "value": "Daca"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FF1A2AF-B9AD-440F-8AF3-1D9EF64D223B",
+      "overrideName": "3C9CD576-7749-499F-9952-DACA32361C42/EEE030A8-703D-4E5E-BBE4-8C927E931C26/509BE91F-E0BC-4AAE-99BF-67372C727C17/4052E429-A11F-4AED-8E71-C4DCA4C387BE_stringValue",
+      "value": "Manager"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A1E42CF-57F0-4EE8-8C6F-165786462584",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "835D1F25-0BA0-4DDE-BEE6-7AE313DE39D5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

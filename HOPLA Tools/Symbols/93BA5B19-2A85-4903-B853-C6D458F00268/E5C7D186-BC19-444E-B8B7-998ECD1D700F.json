@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E5C7D186-BC19-444E-B8B7-998ECD1D700F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 79,
+    "width": 260,
+    "x": 10,
+    "y": 11
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Filled / Trailing Icon / Activated",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "721BC331-559A-4A3A-8CE3-A0E29A8484AF",
+      "overrideName": "1777A698-A5FF-41D9-ACD2-F40C2FB61D46/47EDEAB5-B6AE-44AF-B6C9-197F450AE9B7_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1115547F-DDEC-458C-B581-AE706E864401",
+      "overrideName": "A8B52D94-E3D8-4FBD-BAAA-0862D81070C0/6204EA1A-6F42-4991-8748-D1B87479FF2F_stringValue",
+      "value": "Emails"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC6048FD-D284-46FF-82B0-43A4FCF8578B",
+      "overrideName": "DE43F159-84A8-4038-BD67-35F1F0FB54AF/6204EA1A-6F42-4991-8748-D1B87479FF2F_stringValue",
+      "value": "One Per Line"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B244B3A-BA9F-4FCA-86D9-443641830FDD",
+      "overrideName": "8E6E961D-7A6D-426F-A9C3-D1B72164A5AC_symbolID",
+      "value": "D1CC77AB-3CAF-4AA9-A036-AEE683F95331"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98F3478F-F18E-4C6B-8AAF-06D8BA308FC8",
+      "overrideName": "8E6E961D-7A6D-426F-A9C3-D1B72164A5AC/C1A81218-7983-44DE-BF90-86C26CEFDC0F_symbolID",
+      "value": "EC577ACD-D715-466A-B66C-9C0CE8917528"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "88CFBC58-9579-4FE5-A443-03F01DBA7162",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_86cdb59b-5f86-4971-b1a8-719530fa339a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_5f27de7b-4e2a-44e4-ba77-b2fc79e0dcf3",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ],
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_86cdb59b-5f86-4971-b1a8-719530fa339a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_5f27de7b-4e2a-44e4-ba77-b2fc79e0dcf3",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

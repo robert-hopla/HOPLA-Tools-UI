@@ -1,10 +1,10 @@
 {
-  "_class": "bitmap",
-  "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "8FA0CB16-3209-4CC0-8959-0F17B0CDBBDA",
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "ACC9341D-B7FE-414D-91BD-94C3393F1866",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "080172CE-36EA-4290-B5E1-87FDBFEFDDD6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -12,44 +12,45 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 50,
-    "width": 50,
-    "x": 35,
+    "constrainProportions": false,
+    "do_objectID": "2A20D48B-0CF0-4EFB-A202-D1C0D8A3BA03",
+    "height": 56,
+    "width": 360,
+    "x": 0,
     "y": 0
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/97cd68e04e1f9ac54692d30c91783d3dee74d10d.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button_icon",
+  "name": "ICONS",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "342980B5-AEDB-4DBF-ADCD-F1288E8D58DB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "6176E777-391D-4145-B9E8-22EF0F48415E",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

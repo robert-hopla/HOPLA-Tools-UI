@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "78D5450B-67B1-4E38-AF04-4337F2AC8D9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 328,
+    "x": 16,
+    "y": 132
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Outlined / Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AF5BBF2-8E3B-4E99-A5FF-32B3B6F557D5",
+      "overrideName": "E4081547-58D6-4AC1-9303-8D6805581295/47EDEAB5-B6AE-44AF-B6C9-197F450AE9B7_stringValue",
+      "value": "Janet Perkins"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C5F4E24-DE28-45DF-A8C7-4721A31F3283",
+      "overrideName": "FA78822B-60B7-4D18-B532-03B416C9EA9F/3A638FF8-EE2F-47F2-A198-8C5C5FFEF17D/6204EA1A-6F42-4991-8748-D1B87479FF2F_stringValue",
+      "value": "Name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F04D2D54-BBA2-46E5-A256-7AE1ED03C884",
+      "overrideName": "82715EAC-6AF8-4BF9-86C2-2995B5A10AC5_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C21961BB-11AF-4477-8727-C8E7E51E68F6",
+      "overrideName": "F092296B-DED9-455C-BECC-626A73FDFE63/6204EA1A-6F42-4991-8748-D1B87479FF2F_stringValue",
+      "value": " Your Identity"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45A01BAD-47D9-4D55-894B-7E0E21493D00",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

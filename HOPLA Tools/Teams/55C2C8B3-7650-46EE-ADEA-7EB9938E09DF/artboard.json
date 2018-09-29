@@ -1,0 +1,97 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7EDC6157-30CE-4D24-82A9-8C4A01C6657C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "55C2C8B3-7650-46EE-ADEA-7EB9938E09DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B577E83F-EAF9-4FEF-A4AE-EFEF7E4B83FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43321042-9A6F-4811-A97B-9BE97E285FAD",
+    "height": 1024,
+    "width": 360,
+    "x": 1724,
+    "y": -1151
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2D648DF5-871E-412A-AEF6-3A64D41DE952",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0885D825-07F3-4D0B-8CC4-7323240BDAC0"
+    },
+    {
+      "class": "group",
+      "id": "718DCA15-2477-4417-9061-6F4879648C06"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "21E8EBA8-9C96-443A-A528-EFCB63A58438"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "54AD4E5B-0461-4F62-B58D-22CF994ACED7"
+    }
+  ],
+  "name": "home/teams/team",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "HOPLA Tools Extension",
+    "offersLandscapeVariant": 0,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC1BBEE4-AA71-4B6B-8D60-725E8565B594",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "665DDF70-7194-4251-B99F-3EBD1941B0C5",
+    "guides": [
+    ]
+  }
+}

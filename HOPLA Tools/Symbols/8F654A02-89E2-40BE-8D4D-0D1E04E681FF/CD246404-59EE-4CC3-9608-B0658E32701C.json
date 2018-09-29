@@ -1,9 +1,10 @@
 {
-  "_class": "group",
-  "booleanOperation": -1,
-  "do_objectID": "935DED38-3961-4DC1-A703-30C18B69DEC9",
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "CD246404-59EE-4CC3-9608-B0658E32701C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EF61A5F9-3604-411B-8FB2-D66E72A173F7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,45 +15,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 71,
-    "width": 120,
+    "do_objectID": "552DCD0A-B367-4779-ABC3-E6B6B6853DB7",
+    "height": 56,
+    "width": 360,
     "x": 0,
-    "y": 15
+    "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "text",
-      "id": "67120277-E90A-4A61-A898-FB13B7C3F8F4"
-    },
-    {
-      "class": "bitmap",
-      "id": "8FA0CB16-3209-4CC0-8959-0F17B0CDBBDA"
-    }
+  "name": "LIST STATE",
+  "nameIsFixed": true,
+  "overrideValues": [
   ],
-  "name": "Group",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "229DE639-7D3E-47DE-B747-3A28BBC59825",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "CA68D8F2-AE59-43FB-A2A3-EF797B26C795",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }
