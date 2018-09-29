@@ -60,8 +60,7 @@
         "isCollapsing": 1,
         "spacing": 0,
         "stackType": 1
-      },
-      "kViewTypeKey": "ADModelStackView"
+      }
     }
   }
 }

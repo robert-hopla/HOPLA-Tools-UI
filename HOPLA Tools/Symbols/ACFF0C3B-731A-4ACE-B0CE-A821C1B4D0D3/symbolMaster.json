@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 15281,
+  "changeIdentifier": 15299,
   "do_objectID": "ACFF0C3B-731A-4ACE-B0CE-A821C1B4D0D3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -37,7 +37,7 @@
     "thickGridTimes": 40
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -66,7 +66,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "ACC9341D-B7FE-414D-91BD-94C3393F1866"
+      "id": "B3E6040D-0B05-4E00-AAB0-F5CE0117F55B"
     },
     {
       "class": "symbolInstance",
@@ -88,7 +88,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "name": "App Bar / Top App Bar / Regular / Flat / Primary Color",
+  "name": "App Bar / Top App Bar / Custom / Extension",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "4E363BE2-378B-4370-BAB0-88FB9D4E8BCA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 416,
+    "x": 112,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A0E5A924-8677-4ED4-83C1-DCCD91B5B36D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F93A48B-2A40-459C-B311-B2EB1EBA3D1D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33508F43-6426-4B58-A563-6E8C80C9DD42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "094C71E9-F3EA-4E99-86B2-2331649C4B01"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A746A207-7D8A-46BD-B56B-649FCA4B3381"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8111F435-89E5-469F-B81B-E8EC04B20EEC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E403F5B9-8334-40FF-8ED8-784FCA281A77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C550D04-BB38-4F1A-B61B-64465D4DB0DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B408916-70A4-4D32-B57C-E00E9F3B498D"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 25,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
