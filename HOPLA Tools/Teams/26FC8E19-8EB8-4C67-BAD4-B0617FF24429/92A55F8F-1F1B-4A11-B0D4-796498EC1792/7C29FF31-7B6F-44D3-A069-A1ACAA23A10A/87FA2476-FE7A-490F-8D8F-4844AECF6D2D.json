@@ -1,8 +1,7 @@
 {
-  "_class": "bitmap",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "A5E083A3-D761-4C36-B9D4-302D39EBCD92",
+  "do_objectID": "87FA2476-FE7A-490F-8D8F-4844AECF6D2D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,32 +11,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 320,
     "width": 480,
-    "x": 0,
+    "x": 480,
     "y": 0
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/6250132617f646131d0d64206dae9d96754e3b89.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "photo",
-  "nameIsFixed": true,
+  "name": "grid_user Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -46,10 +42,12 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "E3594008-3426-40F8-8889-20673B5631E1",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

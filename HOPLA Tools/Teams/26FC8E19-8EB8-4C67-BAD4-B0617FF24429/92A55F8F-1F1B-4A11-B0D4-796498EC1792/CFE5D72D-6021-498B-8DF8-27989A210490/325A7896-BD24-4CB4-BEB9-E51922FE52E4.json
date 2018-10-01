@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "F12738BF-9BDD-4FCC-8419-45AA13E537D1",
+  "do_objectID": "325A7896-BD24-4CB4-BEB9-E51922FE52E4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 320,
     "width": 480,
-    "x": 486,
-    "y": 59
+    "x": 960,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,15 +26,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "grid_user Copy",
+  "name": "grid_user Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "131B9DDC-9040-4CFC-AC4D-A4AA9AC82DF9",
-      "overrideName": "0E7D816B-6125-42AC-BCE6-683815D656A6_symbolID",
-      "value": "FFFF0B70-6815-4DFC-82CF-68F7C39AC04A"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

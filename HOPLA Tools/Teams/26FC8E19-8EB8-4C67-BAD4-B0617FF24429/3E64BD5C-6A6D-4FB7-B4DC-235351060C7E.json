@@ -17,7 +17,7 @@
     "height": 188,
     "width": 194,
     "x": 673,
-    "y": 8
+    "y": 7
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -29,6 +29,36 @@
   "name": "Menu / Exposed",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB1AB7F0-17FB-41CB-926F-1A9F84679A18",
+      "overrideName": "6DCE06F0-21B9-4579-A6AD-7DD1FED925CE/509BE91F-E0BC-4AAE-99BF-67372C727C17/4052E429-A11F-4AED-8E71-C4DCA4C387BE_stringValue",
+      "value": "BrandPixel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "655704ED-D7D2-4DE8-8E9F-00CB874BE1D0",
+      "overrideName": "A685EEDA-1241-4663-96C7-B4657E4DE6E0/50FD1A8C-8416-4B45-8D97-E446A1489D5F/509BE91F-E0BC-4AAE-99BF-67372C727C17/4052E429-A11F-4AED-8E71-C4DCA4C387BE_stringValue",
+      "value": "Team 2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EEBC391D-AB0A-49F6-9592-5EAA69ECD22D",
+      "overrideName": "A685EEDA-1241-4663-96C7-B4657E4DE6E0/12A0BAAB-DA58-4AC0-A5D2-DFC8F5760F42/509BE91F-E0BC-4AAE-99BF-67372C727C17/4052E429-A11F-4AED-8E71-C4DCA4C387BE_stringValue",
+      "value": "Team 3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "222A6830-B556-42AC-AF87-E20E2229738D",
+      "overrideName": "A685EEDA-1241-4663-96C7-B4657E4DE6E0/AA703EA7-A062-4C92-8F49-28BA6C7419CB/509BE91F-E0BC-4AAE-99BF-67372C727C17/4052E429-A11F-4AED-8E71-C4DCA4C387BE_stringValue",
+      "value": "Team 4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1162D8BB-E85D-4F6D-B2F9-65B93FB7B214",
+      "overrideName": "A685EEDA-1241-4663-96C7-B4657E4DE6E0/A63E952E-826E-40A4-BBDF-0F561E9847AF/509BE91F-E0BC-4AAE-99BF-67372C727C17/4052E429-A11F-4AED-8E71-C4DCA4C387BE_stringValue",
+      "value": "Team 5"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

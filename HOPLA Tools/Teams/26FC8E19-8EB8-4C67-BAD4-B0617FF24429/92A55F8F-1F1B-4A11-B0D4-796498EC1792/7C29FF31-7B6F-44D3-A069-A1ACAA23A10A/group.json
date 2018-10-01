@@ -1,7 +1,7 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "F83A3A34-0CDC-4F28-B725-1545E024FADA",
+  "do_objectID": "7C29FF31-7B6F-44D3-A069-A1ACAA23A10A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,25 +15,36 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 320,
-    "width": 480,
-    "x": 6,
-    "y": 379
+    "width": 1440,
+    "x": 0,
+    "y": 376
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "grid_user Copy 3",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DEEE34B3-57C2-4D82-B885-012F32614283"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87FA2476-FE7A-490F-8D8F-4844AECF6D2D"
+    },
+    {
+      "class": "group",
+      "id": "5199D743-8119-4B96-BC11-B222E06A3CC3"
+    }
   ],
+  "name": "Stacked Group 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -42,12 +53,14 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E3594008-3426-40F8-8889-20673B5631E1",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 1
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

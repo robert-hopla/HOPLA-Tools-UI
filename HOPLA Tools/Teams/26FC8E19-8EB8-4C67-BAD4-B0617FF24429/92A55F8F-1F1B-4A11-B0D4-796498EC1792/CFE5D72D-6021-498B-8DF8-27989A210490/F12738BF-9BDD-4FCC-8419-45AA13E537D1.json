@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "EA408CFD-6EBB-4A94-B3C2-3CA2F501F49E",
+  "do_objectID": "F12738BF-9BDD-4FCC-8419-45AA13E537D1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1AE16C9E-E49B-4225-8B61-1593E234CF26",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +14,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7E6D328D-742E-4CB3-977C-C4FD064FF0E1",
-    "height": 56,
-    "width": 1441,
-    "x": -1,
+    "height": 320,
+    "width": 480,
+    "x": 480,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -28,9 +26,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "App Bar / Top App Bar / Custom / Browser",
+  "name": "grid_user Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "131B9DDC-9040-4CFC-AC4D-A4AA9AC82DF9",
+      "overrideName": "0E7D816B-6125-42AC-BCE6-683815D656A6_symbolID",
+      "value": "FFFF0B70-6815-4DFC-82CF-68F7C39AC04A"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,13 +43,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3B546BCD-D62B-4FA1-96BC-3EC98D53CB4C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BDAB6384-7F01-4077-8414-CB2605ED82D1",
+  "symbolID": "E3594008-3426-40F8-8889-20673B5631E1",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

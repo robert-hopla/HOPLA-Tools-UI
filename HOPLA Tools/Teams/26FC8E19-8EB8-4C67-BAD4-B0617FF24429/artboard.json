@@ -49,36 +49,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "DEEE34B3-57C2-4D82-B885-012F32614283"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "87FA2476-FE7A-490F-8D8F-4844AECF6D2D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F83A3A34-0CDC-4F28-B725-1545E024FADA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "325A7896-BD24-4CB4-BEB9-E51922FE52E4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F12738BF-9BDD-4FCC-8419-45AA13E537D1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BB91A4E6-ACD7-452E-9F9E-E1C5EF038010"
+      "class": "group",
+      "id": "92A55F8F-1F1B-4A11-B0D4-796498EC1792"
     },
     {
       "class": "symbolInstance",
       "id": "3E64BD5C-6A6D-4FB7-B4DC-235351060C7E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EA408CFD-6EBB-4A94-B3C2-3CA2F501F49E"
     }
   ],
   "name": "map_view",

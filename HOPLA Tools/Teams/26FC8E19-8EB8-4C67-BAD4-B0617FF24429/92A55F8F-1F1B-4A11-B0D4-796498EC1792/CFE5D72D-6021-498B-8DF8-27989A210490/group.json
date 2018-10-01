@@ -1,8 +1,7 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "A5E083A3-D761-4C36-B9D4-302D39EBCD92",
+  "do_objectID": "CFE5D72D-6021-498B-8DF8-27989A210490",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,29 +11,37 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 320,
-    "width": 480,
+    "width": 1440,
     "x": 0,
-    "y": 0
+    "y": 56
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/6250132617f646131d0d64206dae9d96754e3b89.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "photo",
-  "nameIsFixed": true,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "325A7896-BD24-4CB4-BEB9-E51922FE52E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F12738BF-9BDD-4FCC-8419-45AA13E537D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB91A4E6-ACD7-452E-9F9E-E1C5EF038010"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -49,6 +56,10 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 1
       }
     }
   }

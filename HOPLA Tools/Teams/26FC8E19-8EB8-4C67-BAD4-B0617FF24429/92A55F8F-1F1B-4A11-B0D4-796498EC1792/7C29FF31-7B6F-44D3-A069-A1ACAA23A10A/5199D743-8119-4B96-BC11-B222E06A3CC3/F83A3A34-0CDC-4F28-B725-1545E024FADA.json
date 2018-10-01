@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "325A7896-BD24-4CB4-BEB9-E51922FE52E4",
+  "do_objectID": "F83A3A34-0CDC-4F28-B725-1545E024FADA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 320,
     "width": 480,
-    "x": 966,
-    "y": 59
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "grid_user Copy 2",
+  "name": "grid_user Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
   ],

@@ -54243,8 +54243,8 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 263,
-        "do_objectID": "D2873979-F43B-44DE-B222-1A9CB793E291",
+        "changeIdentifier": 276,
+        "do_objectID": "A28F9A9F-894A-4E6B-9580-83134788E9F5",
         "exportOptions": {
           "_class": "exportOptions",
           "exportFormats": [
@@ -54259,8 +54259,8 @@
           "constrainProportions": false,
           "height": 48,
           "width": 48,
-          "x": 100,
-          "y": 0
+          "x": 548,
+          "y": 94
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
@@ -54285,7 +54285,7 @@
             "_class": "shapeGroup",
             "booleanOperation": 0,
             "clippingMaskMode": 0,
-            "do_objectID": "EC3AF79A-3C8F-4786-B869-9A2750B13BB5",
+            "do_objectID": "1ADCFB19-CDD2-42E4-BEB6-60EDCFC8E818",
             "exportOptions": {
               "_class": "exportOptions",
               "exportFormats": [
@@ -54315,7 +54315,7 @@
               {
                 "_class": "rectangle",
                 "booleanOperation": -1,
-                "do_objectID": "B9765563-DA68-4E9D-81BD-EE0D4ACB87EA",
+                "do_objectID": "1B136F11-2023-4B94-830A-AF077C648A96",
                 "edited": false,
                 "exportOptions": {
                   "_class": "exportOptions",
@@ -54445,6 +54445,21 @@
             "userInfo": {
               "com.animaapp.stc-sketch-plugin": {
                 "kModelPropertiesKey": {
+                  "constraints": {
+                    "aspectRatio": {
+                      "constant": 48,
+                      "enabled": 1,
+                      "modelID": "constraint_5501cf9e-5b36-44a0-bfd1-2ef5143e589a",
+                      "model_class": "ADModelConstraint",
+                      "model_version": 0.1,
+                      "multiplier": 48
+                    },
+                    "automatic": 1,
+                    "modelID": "viewConstraints_06722edf-769c-44e5-9638-e8a06b9ad05f",
+                    "model_class": "ADModelViewConstraints",
+                    "model_version": 0.1,
+                    "scaleFactor": 1
+                  }
                 }
               }
             },
@@ -54490,8 +54505,8 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 263,
-        "do_objectID": "D2873979-F43B-44DE-B222-1A9CB793E291",
+        "changeIdentifier": 276,
+        "do_objectID": "A28F9A9F-894A-4E6B-9580-83134788E9F5",
         "exportOptions": {
           "_class": "exportOptions",
           "exportFormats": [
@@ -54506,8 +54521,8 @@
           "constrainProportions": false,
           "height": 48,
           "width": 48,
-          "x": 100,
-          "y": 0
+          "x": 548,
+          "y": 94
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
@@ -54532,7 +54547,7 @@
             "_class": "shapeGroup",
             "booleanOperation": 0,
             "clippingMaskMode": 0,
-            "do_objectID": "EC3AF79A-3C8F-4786-B869-9A2750B13BB5",
+            "do_objectID": "1ADCFB19-CDD2-42E4-BEB6-60EDCFC8E818",
             "exportOptions": {
               "_class": "exportOptions",
               "exportFormats": [
@@ -54562,7 +54577,7 @@
               {
                 "_class": "rectangle",
                 "booleanOperation": -1,
-                "do_objectID": "B9765563-DA68-4E9D-81BD-EE0D4ACB87EA",
+                "do_objectID": "1B136F11-2023-4B94-830A-AF077C648A96",
                 "edited": false,
                 "exportOptions": {
                   "_class": "exportOptions",
@@ -54692,6 +54707,21 @@
             "userInfo": {
               "com.animaapp.stc-sketch-plugin": {
                 "kModelPropertiesKey": {
+                  "constraints": {
+                    "aspectRatio": {
+                      "constant": 48,
+                      "enabled": 1,
+                      "modelID": "constraint_5501cf9e-5b36-44a0-bfd1-2ef5143e589a",
+                      "model_class": "ADModelConstraint",
+                      "model_version": 0.1,
+                      "multiplier": 48
+                    },
+                    "automatic": 1,
+                    "modelID": "viewConstraints_06722edf-769c-44e5-9638-e8a06b9ad05f",
+                    "model_class": "ADModelViewConstraints",
+                    "model_version": 0.1,
+                    "scaleFactor": 1
+                  }
                 }
               }
             },
