@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "A746A207-7D8A-46BD-B56B-649FCA4B3381",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,9 +19,10 @@
     "do_objectID": "0A4E755E-03FE-4318-AFE7-6CC29767060D",
     "height": 24,
     "width": 24,
-    "x": 196,
+    "x": 245,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "action",
+  "name": "Brands/twitter",
   "nameIsFixed": true,
   "overrideValues": [
     {

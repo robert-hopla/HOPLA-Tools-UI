@@ -57,6 +57,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "B86A76CD-E6B2-42A8-BD71-F6114EB1FBEA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -143,7 +144,6 @@
         "spread": 0
       }
     ],
-    "sharedObjectID": "B86A76CD-E6B2-42A8-BD71-F6114EB1FBEA",
     "startMarkerType": 0,
     "windingRule": 1
   },

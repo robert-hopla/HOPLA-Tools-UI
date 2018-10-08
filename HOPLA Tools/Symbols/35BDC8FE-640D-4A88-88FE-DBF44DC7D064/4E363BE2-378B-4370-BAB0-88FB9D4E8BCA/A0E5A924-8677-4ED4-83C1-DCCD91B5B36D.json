@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "A0E5A924-8677-4ED4-83C1-DCCD91B5B36D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,9 +17,10 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 294,
+    "x": 343,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -26,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "action",
+  "name": "Brands/viber",
   "nameIsFixed": true,
   "overrideValues": [
     {

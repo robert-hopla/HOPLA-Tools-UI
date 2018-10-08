@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "1F93A48B-2A40-459C-B311-B2EB1EBA3D1D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,9 +19,10 @@
     "do_objectID": "3A185226-FA3E-48A9-A0F3-091BD707F890",
     "height": 24,
     "width": 24,
-    "x": 245,
+    "x": 294,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "action",
+  "name": "Brands/telegram",
   "nameIsFixed": true,
   "overrideValues": [
     {

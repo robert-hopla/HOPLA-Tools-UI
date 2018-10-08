@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "4E363BE2-378B-4370-BAB0-88FB9D4E8BCA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,11 +16,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 416,
+    "width": 465,
     "x": 40,
     "y": 28
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

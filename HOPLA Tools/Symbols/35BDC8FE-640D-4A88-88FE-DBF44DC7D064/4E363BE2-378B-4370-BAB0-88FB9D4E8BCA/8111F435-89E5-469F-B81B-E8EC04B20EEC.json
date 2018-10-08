@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "8111F435-89E5-469F-B81B-E8EC04B20EEC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,9 +19,10 @@
     "do_objectID": "8DED93B3-41A4-4034-B6C6-5E3DB5D220D4",
     "height": 24,
     "width": 24,
-    "x": 147,
+    "x": 196,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "action",
+  "name": "Brands/whatsapp",
   "nameIsFixed": true,
   "overrideValues": [
     {

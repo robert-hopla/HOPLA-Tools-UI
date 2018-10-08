@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "E403F5B9-8334-40FF-8ED8-784FCA281A77",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,9 +19,10 @@
     "do_objectID": "C1F19039-E8AB-41BC-A506-A9F4DD8F4BC1",
     "height": 24,
     "width": 24,
-    "x": 98,
+    "x": 147,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "action",
+  "name": "Brands/facebook-messenger",
   "nameIsFixed": true,
   "overrideValues": [
     {

@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "68BCE751-0761-4839-AB75-B713029E0554",
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,25 +16,26 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 160,
+    "width": 98,
     "x": 0,
     "y": 12
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "3EE28601-7D4B-4B16-B755-41608EC21A0A"
+      "class": "group",
+      "id": "905E9419-7326-476D-B713-BEF1084B1244"
     },
     {
-      "class": "symbolInstance",
-      "id": "04A2768E-03D3-4CCC-B105-CC3186D184B7"
+      "class": "group",
+      "id": "FED399AA-485E-4A76-883C-4899C02A92F1"
     }
   ],
   "name": "Stacked Group",
