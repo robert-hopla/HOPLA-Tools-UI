@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC248834-BDDB-4F04-A9E8-B2D5DF99F3F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 443,
+    "width": 492,
+    "x": -245,
+    "y": 4351
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "34BAB351-EDC0-406F-8669-A88C4E3FCAE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF5CA7C6-CE73-4537-A920-2BC586F38115"
+    },
+    {
+      "class": "slice",
+      "id": "0C7818B3-62AE-4110-9530-7CCDBBC989E9"
+    },
+    {
+      "class": "slice",
+      "id": "5BA5697D-2009-40A3-AD6E-20B74D827378"
+    },
+    {
+      "class": "slice",
+      "id": "06EC623E-63CE-43C0-B4CD-00CD8B099C8F"
+    },
+    {
+      "class": "slice",
+      "id": "B67F3B54-A4CE-4FBE-AA87-DE10377F4E04"
+    },
+    {
+      "class": "slice",
+      "id": "785E868E-5001-42E0-BE2B-28DCB92D5D63"
+    },
+    {
+      "class": "slice",
+      "id": "C174B403-399C-4F70-BB45-B110B470597A"
+    }
+  ],
+  "name": "Question 11",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 100,
+    "name": "Logo UserReport",
+    "offersLandscapeVariant": 0,
+    "width": 400
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

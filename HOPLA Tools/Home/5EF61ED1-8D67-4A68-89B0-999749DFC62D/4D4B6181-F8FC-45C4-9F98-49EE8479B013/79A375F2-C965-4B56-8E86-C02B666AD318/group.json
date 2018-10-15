@@ -18,7 +18,7 @@
     "height": 100,
     "width": 360,
     "x": 0,
-    "y": 100
+    "y": 85
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,15 +27,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "F4D33AFD-A6B2-4725-8F81-7A31232BF285"
+      "class": "group",
+      "id": "97EC336E-AD3F-4976-8EE4-AF7FD904C791"
     },
     {
-      "class": "symbolInstance",
-      "id": "180E9D13-223F-4633-83F3-5D11D4C6C623"
+      "class": "group",
+      "id": "31098FA2-1C20-4EB4-AF7B-BB495A9F5F8C"
+    },
+    {
+      "class": "group",
+      "id": "D0019738-8784-4192-9C0A-C4A0A75A5CA8"
     },
     {
       "class": "group",

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 425,
+  "changeIdentifier": 447,
   "clippingMaskMode": 0,
   "do_objectID": "8723C62F-074C-4FAA-A5D1-4C471B1F113A",
   "exportOptions": {
@@ -53,8 +53,8 @@
       "id": "67120277-E90A-4A61-A898-FB13B7C3F8F4"
     },
     {
-      "class": "bitmap",
-      "id": "8FA0CB16-3209-4CC0-8959-0F17B0CDBBDA"
+      "class": "symbolInstance",
+      "id": "0CFCDB65-564D-420A-9543-D943570B905B"
     }
   ],
   "name": "main_menu_item",
@@ -72,6 +72,12 @@
     "windingRule": 1
   },
   "symbolID": "E8417661-8212-4C1F-85F1-B5357A42E14E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
