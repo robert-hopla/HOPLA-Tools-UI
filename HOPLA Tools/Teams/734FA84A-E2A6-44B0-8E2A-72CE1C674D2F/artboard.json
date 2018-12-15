@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -28,7 +37,7 @@
     "y": 42
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,6 +62,14 @@
     {
       "class": "bitmap",
       "id": "832D3ED8-98BD-4AFB-8F9B-1EF888FFC858"
+    },
+    {
+      "class": "rectangle",
+      "id": "90057DAC-C4C5-4DEB-AEE2-9FD649F18205"
+    },
+    {
+      "class": "text",
+      "id": "60103288-E9A6-48B1-9AF7-5A8778B6CAFA"
     },
     {
       "class": "symbolInstance",

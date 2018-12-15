@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB9AFDBE-B87E-4F0E-9B43-953A3F0A653A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EADB11EB-3959-4F95-95E6-DA1C278C10CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC26F1CC-222F-49E0-8C5A-E4EB9E2CA5CC",
+    "height": 30,
+    "width": 480,
+    "x": 0,
+    "y": 290
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "webrtc_footer",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C1A52BF-D8D2-482F-8C5F-23313F34E7E2",
+      "overrideName": "F6B18E87-2F5F-4D34-937C-A6810835AC55_stringValue",
+      "value": "CLICK TO STOP RECORDING (0:34)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E62DAD96-0375-44C4-B1B9-6CDB157A6ACD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "468DF067-FD47-4D0A-B6F1-371BB875CC6A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D810AE2F-5A86-4BB0-A5F3-4AD4989CBEB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 600,
+    "x": 176,
+    "y": 1439
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8D881A36-3C95-4133-8E69-913D8BFA50C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "188598B9-E259-480E-9552-4740306A58A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F2ED381-48F3-4DF7-90F0-DCE136E8CD47"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0ABAE0F0-C826-4E79-A714-AB0A02323F81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "41DABD36-43DF-494A-B1A9-88638CB5D539"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "362BCBA9-A768-46FF-9CA3-96FAAABC8D39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3F82BA6-9811-427B-A20B-E6B03CEE7881"
+    }
+  ],
+  "name": "13 Question",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 100,
+    "name": "Logo UserReport",
+    "offersLandscapeVariant": 0,
+    "width": 400
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

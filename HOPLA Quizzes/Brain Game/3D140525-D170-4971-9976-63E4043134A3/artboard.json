@@ -32,8 +32,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 100,
-    "width": 500,
-    "x": 276,
+    "width": 600,
+    "x": 176,
     "y": 119
   },
   "hasBackgroundColor": false,
@@ -65,6 +65,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "9FD97388-7449-4F0B-B354-F77D1A84B727"
+    },
+    {
+      "class": "symbolInstance",
       "id": "C94931B3-F48A-477C-B125-92364F3B5019"
     },
     {
@@ -80,7 +84,7 @@
       "id": "78F00A7D-BC0A-4647-8A91-A177158CC8CF"
     }
   ],
-  "name": "Question 1",
+  "name": "1 Question",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -89,7 +93,7 @@
     "offersLandscapeVariant": 0,
     "width": 400
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

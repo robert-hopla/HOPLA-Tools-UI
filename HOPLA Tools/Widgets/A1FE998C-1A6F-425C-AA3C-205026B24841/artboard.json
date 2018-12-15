@@ -1,0 +1,101 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A1FE998C-1A6F-425C-AA3C-205026B24841",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 320,
+    "width": 480,
+    "x": 253,
+    "y": 42
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "D9FC797C-92EC-4E6B-BA90-74D20B0F09A9"
+    },
+    {
+      "class": "rectangle",
+      "id": "CF16FB42-0A29-493A-94BA-F2DB904F3C41"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7FF0C714-85FD-4FA9-9507-F78B7FF2C56F"
+    },
+    {
+      "class": "text",
+      "id": "A7CEA5CC-2EDF-446B-A33F-0C6CD8084C9C"
+    },
+    {
+      "class": "rectangle",
+      "id": "1DB3C6CB-87C8-4072-BA0E-8DDC53B98286"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC8A8C81-D4C8-401F-AA75-4CCF56621CDE"
+    }
+  ],
+  "name": "Address_geocode",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 480,
+    "name": "Popup",
+    "offersLandscapeVariant": 0,
+    "width": 640
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

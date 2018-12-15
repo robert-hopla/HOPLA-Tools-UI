@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E32B03CA-D632-45D5-9BA7-BC30A4FBE7AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39AD364E-5952-48CF-943D-93CC519227BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC1E56C7-5855-423A-9967-C6B8DADAF309",
+    "height": 56,
+    "width": 340,
+    "x": 0,
+    "y": 168
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input/normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C165937B-A2E9-4664-A4B5-30C48D51261D",
+      "overrideName": "5D72EE2E-6ED3-4918-B1C0-CE16D0F7B8E1_stringValue",
+      "value": "Booking Description"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5AC07B82-36DF-4553-9F1F-5E9A3985CA7E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0D517E1C-E683-4C36-89FF-0C6077E4F6E2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

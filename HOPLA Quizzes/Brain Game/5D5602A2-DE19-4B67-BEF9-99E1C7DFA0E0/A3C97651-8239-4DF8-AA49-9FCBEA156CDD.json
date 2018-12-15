@@ -31,6 +31,12 @@
   "name": "option_pink",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0787CE9A-6450-4C88-9B8F-70F94B4A3D2A",
+      "overrideName": "875F44C4-61FD-46B4-88C0-F17E511C689E_stringValue",
+      "value": "12"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

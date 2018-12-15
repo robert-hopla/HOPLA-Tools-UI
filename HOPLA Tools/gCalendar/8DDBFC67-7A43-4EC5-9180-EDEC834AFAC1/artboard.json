@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F80A7EF2-0280-4154-85B5-1E0892272440",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DDBFC67-7A43-4EC5-9180-EDEC834AFAC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "148FA3CE-A349-4C9E-9A5C-05AA4175382E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A27AF864-CB93-4DFA-9010-BFEAA5BFDE77",
+    "height": 1024,
+    "width": 360,
+    "x": 279,
+    "y": -513
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7FFF3F02-BC8B-472A-9991-74E0AE510BC0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B81F4E5E-F4DA-4305-8860-B1C3DCFBE0D5"
+    },
+    {
+      "class": "group",
+      "id": "E4D7EF57-4625-4779-87B4-D4E341D330CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F728F03-16D0-4A11-A01F-E52FF1912B67"
+    },
+    {
+      "class": "group",
+      "id": "CC9AE6C3-97D8-464D-AE72-96C93B3F0E50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BCDE3AB-F23E-461C-A512-AFEA58CD250D"
+    }
+  ],
+  "name": "home/gcalendar/calendar",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "HOPLA Tools Extension",
+    "offersLandscapeVariant": 0,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFA9FB11-4479-4C7A-8F49-A7AB68A46763",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FDAC4C1D-5CEE-4082-B455-C8EDCDFF4D54",
+    "guides": [
+    ]
+  }
+}

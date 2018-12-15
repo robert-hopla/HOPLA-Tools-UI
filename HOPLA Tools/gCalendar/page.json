@@ -1,0 +1,79 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B117366D-0567-43DE-8E2D-13065A413A65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -482,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "8DDBFC67-7A43-4EC5-9180-EDEC834AFAC1"
+    },
+    {
+      "class": "artboard",
+      "id": "12C6458F-01D3-4D28-B210-03F5135D2530"
+    },
+    {
+      "class": "group",
+      "id": "BA609CD7-7896-400D-8BDE-A340658B93DF"
+    },
+    {
+      "class": "group",
+      "id": "6F229E07-4BD4-4940-995C-47044A523936"
+    },
+    {
+      "class": "group",
+      "id": "BAA09052-EA9F-487C-8E18-049337F67C35"
+    }
+  ],
+  "name": "gCalendar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -432,
+    "guides": [
+    ]
+  }
+}

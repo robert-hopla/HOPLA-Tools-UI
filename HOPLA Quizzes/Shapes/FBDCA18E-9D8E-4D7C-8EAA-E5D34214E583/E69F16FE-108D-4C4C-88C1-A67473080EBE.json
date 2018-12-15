@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E69F16FE-108D-4C4C-88C1-A67473080EBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D28C46C9-B789-4D7B-BD18-A51C7839FC86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "457BF69D-D9DE-4292-8E24-C841F3D6C742",
+    "height": 603,
+    "width": 866,
+    "x": -240,
+    "y": -160
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Question 25 - background",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BBB1D667-D9DA-4FBF-811F-F2A25059D5C7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/27e450cff754d33657d69e5d73e8b765202818e5.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F32560A7-796A-4046-BDCB-7406383470C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A820C296-6D0D-444B-8D18-70015BFF7818",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -61,10 +61,6 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "7B445FA4-ADDA-48B7-B5EE-236D103489A8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D46E20D3-5C18-49C2-9191-69C0E5B547EA"
     }
   ],
   "name": "home/teams/team (dropdown)",

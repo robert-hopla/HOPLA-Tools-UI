@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 82,
     "width": 80,
-    "x": 9,
+    "x": 13,
     "y": 8
   },
   "hasClippingMask": false,
@@ -35,7 +35,7 @@
       "_class": "overrideValue",
       "do_objectID": "317CCDCF-1F85-4F83-A6DF-52BCF64C40D8",
       "overrideName": "875F44C4-61FD-46B4-88C0-F17E511C689E_stringValue",
-      "value": "12"
+      "value": "1"
     }
   ],
   "resizingConstraint": 63,

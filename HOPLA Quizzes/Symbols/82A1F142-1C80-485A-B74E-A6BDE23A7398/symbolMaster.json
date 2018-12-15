@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "68AF2EA1-1D97-4A09-8DE7-B12F6AEAB367",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 314,
+  "clippingMaskMode": 0,
+  "do_objectID": "82A1F142-1C80-485A-B74E-A6BDE23A7398",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B251C65E-94B3-44BD-8E2B-B4A5FABEC0E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D51FC964-C63A-4C44-896C-B7E6F2699220",
+    "height": 100,
+    "width": 100,
+    "x": 1873,
+    "y": 343
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2E0B12BF-50AB-4FBA-9B7F-A757C69A1AD1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "995B958B-0009-47EB-A12D-BC3BFED420FD"
+    }
+  ],
+  "name": "purple",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9FA1363C-0718-4350-8110-0B60BCEBA92D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "40FD7314-7F4A-4D51-AE55-DFCD6FC9D487",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "09BCE62E-D884-4603-8849-423E5F475C29",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B460F1E-8F22-4BB3-8FED-DE4411B8B14B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C0D029B-E05E-4D2F-B727-E642C76BCAB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D9CAD18-E06A-43FA-AFBC-6B53173112EE",
+    "height": 56,
+    "width": 340,
+    "x": 0,
+    "y": 280
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input/normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "058159A5-E6FA-4072-8431-B2D033C293D2",
+      "overrideName": "18ED487B-F611-469B-BA0A-190FB0C82C91_stringValue",
+      "value": "Book Calendar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0CE52417-C4A2-4978-94B9-E7431DA3006C",
+      "overrideName": "F88AC7EC-581D-40A2-88A5-97EDAD725FD7_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B769F616-A969-441A-8C7A-C7E6969481BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B409B994-D054-4B06-8622-46D59D251AA8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -53,10 +53,6 @@
     {
       "class": "group",
       "id": "92A55F8F-1F1B-4A11-B0D4-796498EC1792"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3E64BD5C-6A6D-4FB7-B4DC-235351060C7E"
     }
   ],
   "name": "map_view",

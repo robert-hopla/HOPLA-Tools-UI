@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2B2B65DE-0F80-4078-8D47-B44510D22D57",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "907B129A-BFD9-48A6-B3E6-4E6AA50CC2BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC8BDA11-CEB8-4006-9B3E-495D7CD9A8D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92FC0546-6EB1-4212-9EE4-C936865D8755",
+    "height": 452,
+    "width": 613,
+    "x": 461,
+    "y": 10457
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "75D65D20-605A-44D2-941E-85DF99E44260",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "89B5BBED-972D-4BE9-9CCE-DA75F59E5D40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72869F30-C23E-4D1E-B798-F549858502A7"
+    },
+    {
+      "class": "slice",
+      "id": "4C040408-EE54-438C-8D41-FC2E5D28D976"
+    },
+    {
+      "class": "slice",
+      "id": "1C4CE5EE-D2F3-4619-86A2-FE0DD07AEA12"
+    },
+    {
+      "class": "slice",
+      "id": "7AA55C3E-6CEF-4E3A-A00D-4F2FBB0493D9"
+    },
+    {
+      "class": "slice",
+      "id": "6FD8EA0C-6C1F-451D-B44B-3F0554240F6A"
+    },
+    {
+      "class": "slice",
+      "id": "CAFD8812-1ADB-43CE-A779-D9C2A99E4A8D"
+    },
+    {
+      "class": "slice",
+      "id": "7483E303-EA29-4642-9375-124750669B72"
+    }
+  ],
+  "name": "sample 2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 100,
+    "name": "Logo UserReport",
+    "offersLandscapeVariant": 0,
+    "width": 400
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3ED45CC4-DC61-4FF1-AB4E-8F9DCAAD6610",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "49FE37EA-C7CE-4AA6-BC7D-DEE808DB7361",
+    "guides": [
+    ]
+  }
+}
