@@ -57,6 +57,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "com.animaapp.animaPageID": "1C2CA4E8-0E48-44FA-BDC2-68306976C5B4",
+      "com.animaapp.uses.anima": 1,
       "kModelPropertiesKey": {
       }
     }

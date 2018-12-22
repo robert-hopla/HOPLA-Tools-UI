@@ -34,14 +34,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Contained / Disabled",
-  "nameIsFixed": false,
+  "name": "negative_action",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "5A85A469-2435-417D-A1F3-43BBBBC9750F",
-      "overrideName": "A84D5B86-1F68-480B-9220-366953EAC5DD/24BFA9B5-7AA9-4BE2-BB1E-69CE342CAF5D_stringValue",
-      "value": "Back"
+      "do_objectID": "DB06CA55-72B1-44D4-B3DF-84D50982A2FB",
+      "overrideName": "13A0C8DF-B2E3-4DB0-BA6D-C781FB377CD5/24BFA9B5-7AA9-4BE2-BB1E-69CE342CAF5D_stringValue",
+      "value": "Cancel"
     }
   ],
   "resizingConstraint": 63,
@@ -56,7 +56,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "260298FA-C1C9-4C8A-93EF-94922B0B403D",
+  "symbolID": "23DC8C24-53C4-41F1-8088-024AB7873E94",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

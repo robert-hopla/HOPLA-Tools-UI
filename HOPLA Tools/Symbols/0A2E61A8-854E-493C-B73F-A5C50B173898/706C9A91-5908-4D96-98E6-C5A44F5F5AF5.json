@@ -16,17 +16,20 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "Roboto-Light",
               "size": 20
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 1.785714,
+          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          }
         },
         "length": 7,
         "location": 0
@@ -51,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 97,
-    "x": 51.5,
-    "y": 13
+    "height": 16,
+    "width": 96,
+    "x": 52,
+    "y": 17
   },
-  "glyphBounds": "{{1, 4}, {94, 15}}",
+  "glyphBounds": "{{1, 0}, {93, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,25 +73,11 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "A8A728A8-1A5F-49E8-846E-F51C153A8AE5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
+    "do_objectID": "C0F80350-0221-40EF-993D-C90E31A5E811",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -105,17 +94,20 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "Roboto-Light",
             "size": 20
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 1.785714,
+        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
+        }
       },
       "verticalAlignment": 0
     },

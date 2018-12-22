@@ -39,7 +39,7 @@
     "x": -180,
     "y": -513
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -60,8 +60,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "94BE5CD7-2182-41D8-A9DE-A511854BBC71"
+      "class": "group",
+      "id": "E0F98DD7-D63F-4FC3-9DB0-727AA0339031"
+    },
+    {
+      "class": "group",
+      "id": "CA95FFA8-FEC7-4355-B8C1-D2A1167FA725"
     }
   ],
   "name": "home/gmail",

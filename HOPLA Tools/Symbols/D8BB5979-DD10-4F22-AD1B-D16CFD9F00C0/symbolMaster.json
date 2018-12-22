@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 138,
+  "changeIdentifier": 145,
   "clippingMaskMode": 0,
   "do_objectID": "D8BB5979-DD10-4F22-AD1B-D16CFD9F00C0",
   "exportOptions": {
@@ -25,11 +25,11 @@
     "constrainProportions": false,
     "height": 90,
     "width": 126,
-    "x": 3766,
-    "y": -213
+    "x": 9573,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -57,8 +57,8 @@
       "id": "B49B87A5-A699-4785-A11D-45A0949D46A6"
     }
   ],
-  "name": "speed_result",
-  "nameIsFixed": false,
+  "name": "speedtest/result",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,6 +72,12 @@
     "windingRule": 1
   },
   "symbolID": "201CB4D4-6999-40B7-9C8B-C56B75F40C12",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

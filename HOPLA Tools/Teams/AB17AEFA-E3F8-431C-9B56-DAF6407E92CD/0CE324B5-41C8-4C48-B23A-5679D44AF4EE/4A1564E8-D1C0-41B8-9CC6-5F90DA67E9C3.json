@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A1564E8-D1C0-41B8-9CC6-5F90DA67E9C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 81
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Snackbar / with Action / Single-line",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83276BBA-38C8-4A87-872A-0ACA8B704501",
+      "overrideName": "8F2072BC-4CE5-40BA-B7EF-73073E001CD5_symbolID",
+      "value": "86C4E243-D424-421B-9540-59752165E431"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "292B221D-4CA2-467F-AED9-D1E596C7CF34",
+      "overrideName": "C70AFC29-DBE0-4D5C-B52C-139A0662915C/14D81857-B03E-47AC-8E16-489B92329240_symbolID",
+      "value": "8A7D63DA-FED7-4CFB-BFB4-8C45846FB7E9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D77BE002-9EBA-4D10-941A-814A1554FD29",
+      "overrideName": "C70AFC29-DBE0-4D5C-B52C-139A0662915C/14D81857-B03E-47AC-8E16-489B92329240/856FB902-8190-4D3F-BECF-30AC63598E43_stringValue",
+      "value": "INSTALL"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B014E51-ABDB-4F8B-9C2C-30BFDB05D5C7",
+      "overrideName": "A26F066A-FBD0-432A-B1E1-183FB66FD1FC/CCFDBCC6-3BF1-45EA-B2B7-687ECAA58B44_stringValue",
+      "value": "HOPLA Tools Extension Required"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC0178FA-F2D4-4933-B639-6FE0649ED535",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "776621C3-11B2-4BBB-BF28-A9C1BFF48196",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 83,
+    "width": 120,
+    "x": 0,
+    "y": 139
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "teams",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2349DCDE-D4AD-4B5C-8269-94D8F857CC80",
+      "overrideName": "129BC479-A68E-490B-A28C-4711A9752995_stringValue",
+      "value": "teams"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D8A2F59-F59C-4C39-ACC4-0C0BA666BFB1",
+      "overrideName": "39586BD1-F7D1-4C68-A6DF-A643A653A5E4_symbolID",
+      "value": "1FB03F71-57BC-472B-B1BC-27904A971FB6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "04773CD1-6B1D-44DE-8D99-5BB34E91A6E5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

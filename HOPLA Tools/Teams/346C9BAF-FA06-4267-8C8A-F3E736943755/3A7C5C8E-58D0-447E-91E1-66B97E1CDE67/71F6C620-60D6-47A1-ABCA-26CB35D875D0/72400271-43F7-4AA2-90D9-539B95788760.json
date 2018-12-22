@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "72400271-43F7-4AA2-90D9-539B95788760",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A03F887C-EAC4-4495-A573-B1F7667BC983",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "117BC35B-1DD3-45E4-BC3B-92385CB5C10B",
+    "height": 76,
+    "width": 328,
+    "x": 0,
+    "y": 486
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "label",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3EE3A04C-2FE3-414E-9199-237AA4CB09F8",
+      "overrideName": "0B2BB583-D65A-47CE-91D5-32841CF74F86_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43199271-BB56-4391-A5C0-FC7AB5027FD8",
+      "overrideName": "DA2432AD-A2FF-4CFC-863A-B9D6B9D7D166/62C22133-D29F-4168-9A25-2AE8C0A38A48_stringValue",
+      "value": "Telegram"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2BF46F2-145C-4D7C-B3A3-55904AFAAD87",
+      "overrideName": "587683A1-1A34-4A16-A4F7-C356C32FD883/62C22133-D29F-4168-9A25-2AE8C0A38A48_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA81CC58-9CF5-4AA0-AA5F-059E00A99D89",
+      "overrideName": "F302DA31-462C-423D-8AE0-595D700207D3/47EDEAB5-B6AE-44AF-B6C9-197F450AE9B7_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F2DD6D39-8843-425B-AECA-2B915544AD8A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CEBAAD83-60C3-4884-A280-8C60D3074C1A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

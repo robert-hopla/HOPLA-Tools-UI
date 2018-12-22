@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CDCF0B85-C23D-401E-AFBA-CD5CBAC9EB2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A251F668-B780-41EE-880D-4A27FF24FA14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA84B6A3-1C0D-426B-AE07-59BAFFE091E6",
+    "height": 64,
+    "width": 360,
+    "x": 0,
+    "y": 64
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "run_interval",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4EFB314-3C7C-44CD-829A-5796E566FE28/47EDEAB5-B6AE-44AF-B6C9-197F450AE9B7_stringValue",
+      "value": "Run Interval"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BF8AF6AD-86A3-4914-8F1A-202E031E9723/EA94034F-589A-4C8E-A7F0-71E97520D736_stringValue",
+      "value": "1AM"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "22683DEB-5A98-420D-A7FA-03D666AE3EA5_symbolID",
+      "value": "27D2A470-2B21-4069-9A28-FFB0B3D2458A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D013BB29-2992-47FA-9469-055449862F39",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CA602EB-800D-4274-9D5F-ABC8BFAE0F41",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

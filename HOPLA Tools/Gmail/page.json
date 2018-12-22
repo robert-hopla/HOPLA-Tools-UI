@@ -38,6 +38,46 @@
   "layers": [
     {
       "class": "artboard",
+      "id": "A472B3AC-D87C-4D4B-AF86-F85DC02B3390"
+    },
+    {
+      "class": "artboard",
+      "id": "F64A6E8C-89D6-4BB3-9B4E-732CBE095261"
+    },
+    {
+      "class": "artboard",
+      "id": "41E41696-9D35-4FAB-BB8C-C59A3E9F5F31"
+    },
+    {
+      "class": "artboard",
+      "id": "9222705E-B167-47A1-8914-8FB438FC1161"
+    },
+    {
+      "class": "artboard",
+      "id": "DFFA7C4E-38BF-4B2F-8794-F9D8B4C34B13"
+    },
+    {
+      "class": "artboard",
+      "id": "FA1BE100-6F2F-4D6C-B674-522AF3DF0825"
+    },
+    {
+      "class": "artboard",
+      "id": "341A2DA6-3FCC-46E9-8181-913D8B07671B"
+    },
+    {
+      "class": "artboard",
+      "id": "26D1972D-5808-4960-93D3-F222360B20BA"
+    },
+    {
+      "class": "artboard",
+      "id": "6393F42E-B3CD-4277-81B6-9B911384E406"
+    },
+    {
+      "class": "artboard",
+      "id": "83CA15F0-4A91-433B-9DC0-F73FBEEDDA00"
+    },
+    {
+      "class": "artboard",
       "id": "1147CF0E-C35C-4413-B282-EA75DB3F992A"
     }
   ],
@@ -56,6 +96,7 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
       "kModelPropertiesKey": {
       }
     }

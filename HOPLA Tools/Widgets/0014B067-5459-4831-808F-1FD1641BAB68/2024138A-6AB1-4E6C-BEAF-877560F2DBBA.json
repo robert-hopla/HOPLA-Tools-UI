@@ -49,7 +49,7 @@
       "_class": "overrideValue",
       "do_objectID": "CDAF815C-1585-41EF-B8D1-6A7D8E58C6F2",
       "overrideName": "D44C14B7-3B87-4EB3-9CEC-223DAE657824_symbolID",
-      "value": "16C84DBD-D1BA-4E87-98F7-62476159EBE0"
+      "value": "41211642-4D0F-483D-807D-1EB62171D232"
     },
     {
       "_class": "overrideValue",
@@ -62,30 +62,6 @@
       "do_objectID": "5F340978-A6E4-4B5C-913B-554AB6ECD6D1",
       "overrideName": "D44C14B7-3B87-4EB3-9CEC-223DAE657824/3B039A90-8CEB-41EA-8471-0086C5640DFC_symbolID",
       "value": "F9B5514F-3200-4119-A24E-5846402AB63C"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "71984F2D-64A8-4912-93DE-D1F6D9700F1C",
-      "overrideName": "6B5926CE-CC17-4254-8B6E-DBDE03397A85_symbolID",
-      "value": "41211642-4D0F-483D-807D-1EB62171D232"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "0B590A50-C876-4475-8D32-29F9BE2E77DD",
-      "overrideName": "6B5926CE-CC17-4254-8B6E-DBDE03397A85/23D33A4B-7D44-4643-B4B6-03B1C366F087_symbolID",
-      "value": "F9B5514F-3200-4119-A24E-5846402AB63C"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "1969F2E5-9FDC-45C9-9EAB-7902ECED23F7",
-      "overrideName": "E092FD6A-BCB1-4289-824E-723804A94694_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "6301F875-139E-4056-ACA9-22001A0C6D22",
-      "overrideName": "5668922E-F247-4B95-8295-E5F2E69038D9_stringValue",
-      "value": "RE-TAKE"
     }
   ],
   "resizingConstraint": 63,
@@ -101,7 +77,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4B6A70EA-CA1A-451F-9919-E189665B19C9",
+  "symbolID": "512F5E37-D088-47E4-A2F3-24926B959446",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

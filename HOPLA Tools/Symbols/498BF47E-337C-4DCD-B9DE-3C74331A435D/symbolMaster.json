@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 164,
+  "changeIdentifier": 252,
   "clippingMaskMode": 0,
   "do_objectID": "498BF47E-337C-4DCD-B9DE-3C74331A435D",
   "exportOptions": {
@@ -25,11 +25,11 @@
     "constrainProportions": false,
     "height": 50,
     "width": 50,
-    "x": 135,
-    "y": 323
+    "x": 5521,
+    "y": 750
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,14 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",
       "id": "7DB0738B-B6B3-4E8F-AA10-870930185DDE"
     }
   ],
-  "name": "menu_icon_settings",
+  "name": "extension/menu/icon/settings",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

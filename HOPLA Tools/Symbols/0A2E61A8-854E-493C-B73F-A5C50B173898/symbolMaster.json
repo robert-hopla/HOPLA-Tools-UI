@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 61,
+  "changeIdentifier": 125,
   "clippingMaskMode": 0,
   "do_objectID": "0A2E61A8-854E-493C-B73F-A5C50B173898",
   "exportOptions": {
@@ -25,11 +25,11 @@
     "constrainProportions": false,
     "height": 50,
     "width": 200,
-    "x": 3466,
-    "y": -213
+    "x": 10549,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,8 +65,8 @@
       "id": "D44C14B7-3B87-4EB3-9CEC-223DAE657824"
     }
   ],
-  "name": "webrtc_button",
-  "nameIsFixed": false,
+  "name": "webrtc/button",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,6 +80,12 @@
     "windingRule": 1
   },
   "symbolID": "512F5E37-D088-47E4-A2F3-24926B959446",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

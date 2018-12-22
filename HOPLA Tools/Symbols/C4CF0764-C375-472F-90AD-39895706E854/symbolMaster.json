@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 129,
+  "changeIdentifier": 213,
   "clippingMaskMode": 0,
   "do_objectID": "C4CF0764-C375-472F-90AD-39895706E854",
   "exportOptions": {
@@ -25,11 +25,11 @@
     "constrainProportions": false,
     "height": 50,
     "width": 50,
-    "x": 135,
-    "y": 123
+    "x": 5521,
+    "y": 900
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,14 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",
       "id": "8FA0CB16-3209-4CC0-8959-0F17B0CDBBDA"
     }
   ],
-  "name": "menu_icon_sheets",
+  "name": "extension/menu/icon/sheets",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

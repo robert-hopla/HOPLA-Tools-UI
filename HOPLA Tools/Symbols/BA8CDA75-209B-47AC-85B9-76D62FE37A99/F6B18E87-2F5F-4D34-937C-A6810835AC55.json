@@ -16,17 +16,20 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "Roboto-Light",
               "size": 14
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 1.25,
+          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          }
         },
         "length": 15,
         "location": 0
@@ -52,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 136,
-    "x": 172.5,
+    "width": 135,
+    "x": 173,
     "y": 7
   },
-  "glyphBounds": "{{0, 2}, {134, 12}}",
+  "glyphBounds": "{{0, 2}, {133, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,9 +73,11 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "A8A728A8-1A5F-49E8-846E-F51C153A8AE5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "BB6D9751-B716-482C-9D80-5837210F5D5C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -89,17 +94,20 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "Roboto-Light",
             "size": 14
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 1.25,
+        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
+        }
       },
       "verticalAlignment": 0
     },

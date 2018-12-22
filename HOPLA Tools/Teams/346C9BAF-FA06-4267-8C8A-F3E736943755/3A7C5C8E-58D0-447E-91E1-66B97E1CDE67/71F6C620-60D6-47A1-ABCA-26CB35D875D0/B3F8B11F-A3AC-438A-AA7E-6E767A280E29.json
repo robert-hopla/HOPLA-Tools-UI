@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3F8B11F-A3AC-438A-AA7E-6E767A280E29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C338799D-3526-4AF5-9C64-61F8426ECC41",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CBD0EA94-FE79-42A9-AC20-4AE160F2DF8B",
+    "height": 76,
+    "width": 328,
+    "x": 0,
+    "y": 243
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "label",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3EE3A04C-2FE3-414E-9199-237AA4CB09F8",
+      "overrideName": "0B2BB583-D65A-47CE-91D5-32841CF74F86_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B9AAA80-65FD-441A-851D-2E38ACC5ED6C",
+      "overrideName": "587683A1-1A34-4A16-A4F7-C356C32FD883/62C22133-D29F-4168-9A25-2AE8C0A38A48_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD0F77F1-31D5-48F8-94AF-91886C10AE38",
+      "overrideName": "DA2432AD-A2FF-4CFC-863A-B9D6B9D7D166/62C22133-D29F-4168-9A25-2AE8C0A38A48_stringValue",
+      "value": "Slack"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "846992B6-5EEE-47AF-88C4-DBDF1A7A6579",
+      "overrideName": "F302DA31-462C-423D-8AE0-595D700207D3/47EDEAB5-B6AE-44AF-B6C9-197F450AE9B7_stringValue",
+      "value": " robert@hopla.online"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F59D0DC7-511B-44B9-B5F6-88B7A12D19A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CEBAAD83-60C3-4884-A280-8C60D3074C1A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

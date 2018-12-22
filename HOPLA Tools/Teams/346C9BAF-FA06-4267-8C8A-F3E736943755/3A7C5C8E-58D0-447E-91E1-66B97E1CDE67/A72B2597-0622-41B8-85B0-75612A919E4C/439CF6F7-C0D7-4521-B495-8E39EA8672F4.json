@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "439CF6F7-C0D7-4521-B495-8E39EA8672F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19FCC5BE-9339-45B2-BB24-6B106E01C477",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAA7FE43-1B20-4D62-A5E2-2FD256FDDED5",
+    "height": 64,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "label",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4EFB314-3C7C-44CD-829A-5796E566FE28/47EDEAB5-B6AE-44AF-B6C9-197F450AE9B7_stringValue",
+      "value": "Teams Name 1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "22683DEB-5A98-420D-A7FA-03D666AE3EA5_symbolID",
+      "value": "71EB527F-896B-4BEE-9AB5-BE1835FE2234"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "807DB257-78BA-423D-98C8-81AD5EB64767",
+      "overrideName": "BF8AF6AD-86A3-4914-8F1A-202E031E9723/EA94034F-589A-4C8E-A7F0-71E97520D736_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F81C8BF-64C1-4679-B932-33ABEA05D6A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CA602EB-800D-4274-9D5F-ABC8BFAE0F41",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

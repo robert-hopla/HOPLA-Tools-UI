@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B3D4E91-2B12-4C82-842D-B8F99599583E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "746194F0-E0A7-4AEB-8D95-A5D6E4F8BC1C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E0C4D1F-6440-44E8-977F-CF46AB24E278",
+    "height": 76,
+    "width": 328,
+    "x": 0,
+    "y": 243
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "output",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59C963B0-402F-4224-8997-FDCA7B146E20",
+      "overrideName": "7B4873D8-C73D-48BA-A6CF-58D42981A6D5_symbolID",
+      "value": "4F05036C-CB6B-459E-B767-D61CC6D23026"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47193391-561E-4A28-A1B8-FA397C2A1808",
+      "overrideName": "7B4873D8-C73D-48BA-A6CF-58D42981A6D5/B7317943-8AFB-4E19-9A32-F471039F5809_symbolID",
+      "value": "F9B5514F-3200-4119-A24E-5846402AB63C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3130A947-843C-4FD6-ABE6-5E9BC7E57103",
+      "overrideName": "68D991D5-9018-43AD-BA0E-78C766F92285/82A659C0-8808-4422-8DD3-1070C8A30778_stringValue",
+      "value": "Sheet API URL"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04DCB70E-E153-4CF9-BC95-0E5E82283594",
+      "overrideName": "995C7A2D-6BE4-4D0F-964F-9068F8D1AC61/9B1D0878-2361-4D08-82BF-D51F52E8544D_stringValue",
+      "value": "https://sheets.hopla.tools/xxx"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C60D3D75-A5A9-4306-868C-9AFE04E43835",
+      "overrideName": "06F89B10-66E7-46CA-9125-78C550AA41C2/82A659C0-8808-4422-8DD3-1070C8A30778_stringValue",
+      "value": "Send & Receive Data in JSON format only"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF889EAE-A697-4BA3-8D3E-A2ABF46A265A",
+      "overrideName": "7B4873D8-C73D-48BA-A6CF-58D42981A6D5/03E39030-D8DE-4058-8B54-365C6593594C_symbolID",
+      "value": "F9B5514F-3200-4119-A24E-5846402AB63C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18FEE16E-A18F-4C45-95CC-DBF5C8A1657F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CCB824C9-05FA-4646-88CC-31B585605A6F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

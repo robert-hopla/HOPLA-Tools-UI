@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 8,
   "clippingMaskMode": 0,
   "do_objectID": "83A0A852-6826-4675-BB4F-2811EC3C6E7C",
   "exportOptions": {
@@ -25,11 +25,11 @@
     "constrainProportions": false,
     "height": 100,
     "width": 100,
-    "x": 2811,
-    "y": 443
+    "x": 9899,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,8 @@
       "id": "DB760435-4513-4746-80CD-4EF636870016"
     }
   ],
-  "name": "speedtest_button",
-  "nameIsFixed": false,
+  "name": "speedtest/start",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,6 +72,12 @@
     "windingRule": 1
   },
   "symbolID": "02BEAA0F-D544-44E7-8FEB-82A49595EA44",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

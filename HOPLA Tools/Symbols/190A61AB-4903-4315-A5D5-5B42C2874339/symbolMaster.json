@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 629,
+  "changeIdentifier": 638,
   "clippingMaskMode": 0,
   "do_objectID": "190A61AB-4903-4315-A5D5-5B42C2874339",
   "exportOptions": {
@@ -28,8 +28,8 @@
     "do_objectID": "F36A926E-FE98-41D1-BC67-7D438DF42E3D",
     "height": 56,
     "width": 360,
-    "x": 320,
-    "y": 522
+    "x": 6995,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
@@ -65,8 +65,8 @@
       "id": "B34F3ADF-1E06-49AD-83F6-5FC70C2CB804"
     },
     {
-      "class": "symbolInstance",
-      "id": "D4930680-CD06-4E7F-8D9F-84A5A45D84C8"
+      "class": "group",
+      "id": "97E01787-1654-44FA-9AEB-7A370C8FB208"
     }
   ],
   "name": "Input/active",

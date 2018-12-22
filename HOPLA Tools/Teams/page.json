@@ -38,15 +38,7 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "734FA84A-E2A6-44B0-8E2A-72CE1C674D2F"
-    },
-    {
-      "class": "artboard",
-      "id": "68A144ED-A593-4864-98B3-4893ADD90E37"
-    },
-    {
-      "class": "artboard",
-      "id": "E51EE92E-D374-480D-A864-8B29B2A434FA"
+      "id": "4FF5D277-298E-40FA-B8F4-EA1E18308DC7"
     },
     {
       "class": "artboard",
@@ -54,11 +46,15 @@
     },
     {
       "class": "artboard",
-      "id": "4FF5D277-298E-40FA-B8F4-EA1E18308DC7"
+      "id": "A46B14CD-30E2-4E6A-A2DB-52F3F2609A3D"
     },
     {
       "class": "artboard",
-      "id": "A46B14CD-30E2-4E6A-A2DB-52F3F2609A3D"
+      "id": "E51EE92E-D374-480D-A864-8B29B2A434FA"
+    },
+    {
+      "class": "artboard",
+      "id": "68A144ED-A593-4864-98B3-4893ADD90E37"
     },
     {
       "class": "artboard",
@@ -66,23 +62,27 @@
     },
     {
       "class": "artboard",
-      "id": "19438CC0-09CB-417F-9594-4A423260D723"
+      "id": "734FA84A-E2A6-44B0-8E2A-72CE1C674D2F"
     },
     {
       "class": "artboard",
-      "id": "3B4682D5-45E3-46B2-8EEF-7A64219CFD02"
+      "id": "586E162D-6C69-46A5-8294-73CE5714FAD7"
     },
     {
       "class": "artboard",
-      "id": "55C2C8B3-7650-46EE-ADEA-7EB9938E09DF"
+      "id": "9D9F979F-0550-4965-9EE8-72F14C5D15B5"
     },
     {
       "class": "artboard",
-      "id": "2B64558E-6279-4F9A-800B-E6173445DA7C"
+      "id": "346C9BAF-FA06-4267-8C8A-F3E736943755"
     },
     {
       "class": "artboard",
-      "id": "AF20120F-143A-402A-8188-390488764EA7"
+      "id": "AB17AEFA-E3F8-431C-9B56-DAF6407E92CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63AF38C7-45E6-4DEC-A457-61480A3E8C26"
     }
   ],
   "name": "Teams",
@@ -100,6 +100,7 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
       "kModelPropertiesKey": {
       }
     }

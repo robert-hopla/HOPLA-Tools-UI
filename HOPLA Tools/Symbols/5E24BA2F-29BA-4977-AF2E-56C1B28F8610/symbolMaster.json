@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 18768,
+  "changeIdentifier": 18791,
   "clippingMaskMode": 0,
   "do_objectID": "5E24BA2F-29BA-4977-AF2E-56C1B28F8610",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 50,
     "width": 141,
-    "x": 1634,
-    "y": -117
+    "x": 1849,
+    "y": 0
   },
   "grid": {
     "_class": "simpleGrid",
@@ -35,7 +35,7 @@
     "thickGridTimes": 40
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,15 +52,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "1F374873-D3A9-417E-A661-D959B87311BA"
     },
     {
-      "class": "symbolInstance",
-      "id": "AD7DC971-E2C1-4FB4-90FB-BB82E785CB89"
+      "class": "group",
+      "id": "C3A727AD-B909-4C85-91FC-967D7386EF33"
     },
     {
       "class": "text",
@@ -86,9 +86,9 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "name": "badge/regular",
+  "name": "badge/regular/rest",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -102,6 +102,10 @@
   },
   "symbolID": "0450BCB6-CF5D-4F88-810E-FCC53E757259",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "com.google.ux.material.spec_tools": {
       "cornerSizesDp": [
         10,

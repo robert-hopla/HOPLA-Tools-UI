@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "56CA11E7-68E4-4DB1-96B8-95B04C624FEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE657120-CF58-4877-B28C-D431465B00E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04E263EC-DDDA-4FF2-85D8-DA3F48DD0FA5",
+    "height": 64,
+    "width": 360,
+    "x": 0,
+    "y": 128
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "label",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAC355B7-3C28-4377-BDB3-00E737434F36",
+      "overrideName": "660E95A0-C107-4609-8C3C-916FC208EA66_symbolID",
+      "value": "27D2A470-2B21-4069-9A28-FFB0B3D2458A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F0466331-67D8-40A2-A806-30217CB09084",
+      "overrideName": "C393DA7B-B392-47CF-9C19-3156A50C19D2/47EDEAB5-B6AE-44AF-B6C9-197F450AE9B7_stringValue",
+      "value": "Silver"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7935CCBE-B27C-46D2-8EB3-438C41D56CD1",
+      "overrideName": "A3B316C8-394E-4CAC-839B-0F15F8F5B26C/EA94034F-589A-4C8E-A7F0-71E97520D736_stringValue",
+      "value": "Member"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "890748BD-01A6-453A-B0CB-FF8FF7A6C936",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8BE4D854-3FDF-474E-ADA5-1AF66FE247C1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

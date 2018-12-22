@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 163,
+  "changeIdentifier": 248,
   "clippingMaskMode": 0,
   "do_objectID": "D074260F-57B0-4DAD-B0E5-F6B0B670C557",
   "exportOptions": {
@@ -25,11 +25,11 @@
     "constrainProportions": false,
     "height": 50,
     "width": 50,
-    "x": 135,
-    "y": 376
+    "x": 5521,
+    "y": 1050
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,14 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",
       "id": "7601C80A-CE5F-4CDD-9312-C7ED92B1A29B"
     }
   ],
-  "name": "menu_icon_teams",
+  "name": "extension/menu/icon/teams",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

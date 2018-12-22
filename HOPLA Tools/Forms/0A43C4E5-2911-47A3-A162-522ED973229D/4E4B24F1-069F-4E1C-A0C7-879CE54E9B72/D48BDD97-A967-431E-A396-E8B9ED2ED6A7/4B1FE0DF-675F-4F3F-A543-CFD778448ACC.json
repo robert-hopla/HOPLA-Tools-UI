@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B1FE0DF-675F-4F3F-A543-CFD778448ACC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2CEB77E3-2ACF-4002-B601-56AD62139521",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "35A2D3B0-33C9-457A-8843-3ED86B87A115",
+    "height": 64,
+    "width": 360,
+    "x": 0,
+    "y": 64
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "label",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4EFB314-3C7C-44CD-829A-5796E566FE28/47EDEAB5-B6AE-44AF-B6C9-197F450AE9B7_stringValue",
+      "value": "Form Name 2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BF8AF6AD-86A3-4914-8F1A-202E031E9723/EA94034F-589A-4C8E-A7F0-71E97520D736_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "22683DEB-5A98-420D-A7FA-03D666AE3EA5_symbolID",
+      "value": "71EB527F-896B-4BEE-9AB5-BE1835FE2234"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4170105A-EA8C-4B52-8161-03A4194A0096",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CA602EB-800D-4274-9D5F-ABC8BFAE0F41",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

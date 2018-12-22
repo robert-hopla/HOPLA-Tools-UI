@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "40F4AA9B-2226-4135-AD81-25BEC2699FDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4A965C4-84DA-40A1-8699-BB942FDC8CDD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2612D7A6-B2B1-4E4D-9401-61F7B310986B",
+    "height": 76,
+    "width": 328,
+    "x": 16,
+    "y": 81
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "label",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E542854-88EB-4804-86A9-9D5D8A48CB2E",
+      "overrideName": "7B4873D8-C73D-48BA-A6CF-58D42981A6D5_symbolID",
+      "value": "4F05036C-CB6B-459E-B767-D61CC6D23026"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D185A703-21A0-449A-BFD9-0757A915B530",
+      "overrideName": "68D991D5-9018-43AD-BA0E-78C766F92285/82A659C0-8808-4422-8DD3-1070C8A30778_stringValue",
+      "value": "Team URL"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "377AB247-F9AE-4E80-83E5-7E18B91C844F",
+      "overrideName": "06F89B10-66E7-46CA-9125-78C550AA41C2/82A659C0-8808-4422-8DD3-1070C8A30778_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B38A526B-2314-427D-9CF6-2E79FAA0B3F4",
+      "overrideName": "995C7A2D-6BE4-4D0F-964F-9068F8D1AC61/9B1D0878-2361-4D08-82BF-D51F52E8544D_stringValue",
+      "value": "https://teams/hopla.tools/xxx"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE5E3F3B-3378-424F-9B2B-8B3D6EF4EF9E",
+      "overrideName": "7B4873D8-C73D-48BA-A6CF-58D42981A6D5/03E39030-D8DE-4058-8B54-365C6593594C_symbolID",
+      "value": "F9B5514F-3200-4119-A24E-5846402AB63C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BB57FEB-15C4-4821-A2A9-E6C31A59AD25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CCB824C9-05FA-4646-88CC-31B585605A6F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

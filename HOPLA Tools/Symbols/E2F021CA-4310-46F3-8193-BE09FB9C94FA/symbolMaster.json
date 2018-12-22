@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 102,
+  "changeIdentifier": 108,
   "clippingMaskMode": 0,
   "do_objectID": "E2F021CA-4310-46F3-8193-BE09FB9C94FA",
   "exportOptions": {
@@ -25,11 +25,11 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 67,
+    "x": 6091,
     "y": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,15 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",
       "id": "80EFAF8C-8088-4F56-B62E-1D42D041A880"
     }
   ],
-  "name": "Icon / HOPLA_Tools",
-  "nameIsFixed": false,
+  "name": "hopla_tools/icon",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

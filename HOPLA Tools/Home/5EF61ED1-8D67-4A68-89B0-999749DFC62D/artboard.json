@@ -56,12 +56,44 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "4D4B6181-F8FC-45C4-9F98-49EE8479B013"
+      "class": "symbolInstance",
+      "id": "92F1B053-65A0-4461-995B-0B1ABB9D27D5"
     },
     {
       "class": "symbolInstance",
-      "id": "94801158-7A2A-4E6E-843F-C7351981805E"
+      "id": "037412C7-ECE7-4A14-8EC9-B7431811F896"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07DDF12A-A068-423A-B3E1-ACDA5CFAF2BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B576EF06-517C-4FAE-86F4-04669BB4FEC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86F39E84-F8A7-4FB7-BD66-BE3CA73A9852"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "776621C3-11B2-4BBB-BF28-A9C1BFF48196"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75BC87FD-0608-4A44-8267-22E12FAECA9D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39DC34B2-5C99-4EC1-9004-553CDF35B572"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CFFBB6D-F584-41E8-8044-51BD5A2CD22D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "456088D8-F9F0-456A-BA11-7C2921072124"
     }
   ],
   "name": "home",

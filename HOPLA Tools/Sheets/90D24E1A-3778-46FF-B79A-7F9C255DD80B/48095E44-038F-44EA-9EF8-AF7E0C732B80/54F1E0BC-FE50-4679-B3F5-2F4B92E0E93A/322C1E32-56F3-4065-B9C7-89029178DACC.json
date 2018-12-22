@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "322C1E32-56F3-4065-B9C7-89029178DACC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4095BCED-4BA5-42AE-A4BA-40A8312E3F0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B9BDC68-08DA-4E07-9E6C-CC193D16AB8B",
+    "height": 76,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "label",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D14F3D28-F0A8-4B9E-9BFC-81D9721E104C",
+      "overrideName": "14203A55-17C0-4FF9-AE5E-A4B060AA3041_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D805E6ED-85C8-4AC5-A238-65BD4B93A65D",
+      "overrideName": "32F4024E-4329-4389-9084-7419A94E1B9E/82A659C0-8808-4422-8DD3-1070C8A30778_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A8F3696-73AC-4BE8-9C82-EC658EE8CD49",
+      "overrideName": "6258E966-DA61-4A30-AFB6-F943C0196951/9B1D0878-2361-4D08-82BF-D51F52E8544D_stringValue",
+      "value": "Body 1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A9DDC30-5D6C-4EEA-A2E2-6531EA565F70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B153236C-0E62-4897-85D8-2238C82751B7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

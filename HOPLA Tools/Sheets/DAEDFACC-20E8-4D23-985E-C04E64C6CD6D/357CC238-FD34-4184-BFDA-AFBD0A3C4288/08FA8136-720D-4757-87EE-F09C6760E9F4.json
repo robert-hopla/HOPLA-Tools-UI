@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "08FA8136-720D-4757-87EE-F09C6760E9F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0BE43A2-5DAA-435F-9B24-26AA79B1F1AA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CA358A4-B675-42EA-B408-27183637A453",
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "snackbar",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D686118B-4A38-422F-8AD2-A9221C14E9AB",
+      "overrideName": "10597CFC-29DF-49D5-B814-34E70897B610_symbolID",
+      "value": "3DC1B30F-EBA8-4360-A6B7-C98532A55C1F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6343CC9-B52A-4DC9-9FA4-4358207D4CE0",
+      "overrideName": "6F0641B7-EDC5-4121-8FDD-C0D9EC9554F7/CCFDBCC6-3BF1-45EA-B2B7-687ECAA58B44_stringValue",
+      "value": "Creating Form, Please Wait... :-)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA9DEBEE-D1DF-4078-ACD6-87C8D6368767",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5345B1C-0D2D-4653-8C25-E37E97B03C88",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

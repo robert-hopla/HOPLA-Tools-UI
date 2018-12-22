@@ -36,6 +36,26 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "0A43C4E5-2911-47A3-A162-522ED973229D"
+    },
+    {
+      "class": "artboard",
+      "id": "C9E25249-7984-4BE1-89E1-C3A453D4546C"
+    },
+    {
+      "class": "artboard",
+      "id": "00B4FE7D-2521-4ABD-9E94-69D38948CA9E"
+    },
+    {
+      "class": "artboard",
+      "id": "27C2A88C-49BD-436D-8135-36411D4262D4"
+    },
+    {
+      "class": "artboard",
+      "id": "3026C4F0-5E38-417C-BEB4-084B79263E65"
+    }
   ],
   "name": "Forms",
   "nameIsFixed": true,
@@ -52,6 +72,7 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
       "kModelPropertiesKey": {
       }
     }

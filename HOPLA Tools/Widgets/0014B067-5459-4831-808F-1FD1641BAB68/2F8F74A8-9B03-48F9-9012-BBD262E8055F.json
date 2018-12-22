@@ -38,12 +38,6 @@
       "do_objectID": "E7BCE6FD-8AD8-4998-A0DE-32C413824F5A",
       "overrideName": "D57E0D6A-4E60-429D-863B-54D87CBC8AB4_symbolID",
       "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "C48DCABC-981E-46BF-AF49-D67C131B86C8",
-      "overrideName": "E092FD6A-BCB1-4289-824E-723804A94694_symbolID",
-      "value": ""
     }
   ],
   "resizingConstraint": 63,
@@ -59,7 +53,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4B6A70EA-CA1A-451F-9919-E189665B19C9",
+  "symbolID": "512F5E37-D088-47E4-A2F3-24926B959446",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

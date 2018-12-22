@@ -36,6 +36,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "90D24E1A-3778-46FF-B79A-7F9C255DD80B"
+    },
+    {
+      "class": "artboard",
+      "id": "DAEDFACC-20E8-4D23-985E-C04E64C6CD6D"
+    },
+    {
+      "class": "artboard",
+      "id": "E21EBF85-5AF0-471D-A065-DE45BD37F454"
+    },
+    {
+      "class": "artboard",
+      "id": "3C450541-BB51-4028-A736-57B29BCBDDF1"
+    }
   ],
   "name": "Sheets",
   "nameIsFixed": true,
@@ -52,6 +68,7 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
       "kModelPropertiesKey": {
       }
     }

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 18816,
+  "changeIdentifier": 18820,
   "clippingMaskMode": 0,
   "do_objectID": "0C61F25A-9BF7-42E7-89D2-C5BFC21F44E3",
   "exportOptions": {
@@ -28,8 +28,8 @@
     "do_objectID": "56C6A2C8-6104-4E73-B731-088FE054B422",
     "height": 50,
     "width": 141,
-    "x": 1820,
-    "y": -117
+    "x": 1849,
+    "y": 150
   },
   "grid": {
     "_class": "simpleGrid",
@@ -39,7 +39,7 @@
     "thickGridTimes": 40
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -92,7 +92,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "name": "badge/selected",
+  "name": "badge/regular/selected",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -109,6 +109,10 @@
   },
   "symbolID": "F684DD9E-AC0F-4B31-8CDE-B3DB65078007",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "com.google.ux.material.spec_tools": {
       "cornerSizesDp": [
         10,
