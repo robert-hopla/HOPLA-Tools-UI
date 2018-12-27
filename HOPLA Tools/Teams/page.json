@@ -38,31 +38,7 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "4FF5D277-298E-40FA-B8F4-EA1E18308DC7"
-    },
-    {
-      "class": "artboard",
-      "id": "9CCADE80-CA66-4A9F-AC7E-5E3272ABF171"
-    },
-    {
-      "class": "artboard",
-      "id": "A46B14CD-30E2-4E6A-A2DB-52F3F2609A3D"
-    },
-    {
-      "class": "artboard",
-      "id": "E51EE92E-D374-480D-A864-8B29B2A434FA"
-    },
-    {
-      "class": "artboard",
-      "id": "68A144ED-A593-4864-98B3-4893ADD90E37"
-    },
-    {
-      "class": "artboard",
-      "id": "26FC8E19-8EB8-4C67-BAD4-B0617FF24429"
-    },
-    {
-      "class": "artboard",
-      "id": "734FA84A-E2A6-44B0-8E2A-72CE1C674D2F"
+      "id": "CA893B72-97FA-48C5-AB3C-F6450A937212"
     },
     {
       "class": "artboard",
@@ -82,7 +58,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "63AF38C7-45E6-4DEC-A457-61480A3E8C26"
+      "id": "B12EEB1B-F353-4C70-B907-11C9CE956226"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "173FEF74-8CB2-4A9C-A3B5-FF6F55E56BC6"
     }
   ],
   "name": "Teams",

@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "C924FE7A-1FFF-4DCA-A023-AA253F535E0A",
-    "height": 960,
-    "width": 1280,
-    "x": 7,
-    "y": 0
+    "height": 965,
+    "width": 1287,
+    "x": 0,
+    "y": -2.5
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -59,12 +59,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 810,
+            "constant": 965,
             "enabled": 1,
             "modelID": "constraint_03a677a0-8e9e-4af1-8bcb-cc05b9f4c4fa",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 1080
+            "multiplier": 1287
           },
           "automatic": 1,
           "modelID": "viewConstraints_8cdf9be6-be37-42c5-aac6-1c24e2f53cb3",

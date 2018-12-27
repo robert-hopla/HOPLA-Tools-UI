@@ -36,7 +36,7 @@
     "do_objectID": "FA70EF5A-07DB-41F8-B16F-B880444BA31D",
     "height": 1024,
     "width": 360,
-    "x": 1691,
+    "x": 1591,
     "y": -2344
   },
   "hasBackgroundColor": true,
@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",

@@ -66,6 +66,10 @@
     {
       "class": "group",
       "id": "B6D62F64-9684-4D0B-9CEB-EACF87DF7EFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAF2D43B-2B06-4648-AD2B-D237B461CE9C"
     }
   ],
   "name": "home/gmail/automation/auto_purge",

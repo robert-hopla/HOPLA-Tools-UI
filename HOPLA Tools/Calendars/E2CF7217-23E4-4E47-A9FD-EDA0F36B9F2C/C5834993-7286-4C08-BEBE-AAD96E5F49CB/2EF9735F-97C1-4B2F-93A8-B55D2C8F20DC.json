@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2EF9735F-97C1-4B2F-93A8-B55D2C8F20DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "781982CC-D9C2-46D2-909F-21837BC6EC29",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "550B23A1-35BA-40EB-A594-1CCA06414FF0",
+    "height": 24,
+    "width": 24,
+    "x": 13,
+    "y": 161
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calendar-alt",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB3D5339-E1A7-42B0-A7B3-B563474B92FB",
+      "overrideName": "C262CA09-96FA-4AE7-92FC-6B3F70F90A2E_symbolID",
+      "value": "089F5821-057F-4190-9047-54AEE939AA4A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6ECC9E6-979D-402D-B92C-917ABF69521E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DEBB5CA8-864E-4A98-BA4E-9BB92737320A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

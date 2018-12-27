@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B4F454E7-8301-4159-B898-9B90A0BB948C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55F2A737-6C15-49C4-A1C2-3975782390B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09E31F6F-1E4C-405B-834C-8393282C8CF9",
+    "height": 24,
+    "width": 24,
+    "x": 9,
+    "y": 12
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "facebook-f",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBFD75D2-6B2A-4475-94C6-7236752E9928",
+      "overrideName": "9D6E35BE-1938-4241-A002-A54EFC0FEB1B_symbolID",
+      "value": "089F5821-057F-4190-9047-54AEE939AA4A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EAEEE4B-1BFA-4D8E-818C-EAA7418D5E39",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2C24837E-4A15-4545-B59D-5B5191A85F2C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

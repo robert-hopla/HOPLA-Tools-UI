@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 262,
+  "changeIdentifier": 264,
   "clippingMaskMode": 0,
   "do_objectID": "7E6CF62B-E624-48DF-9CB3-107B236A4B3F",
   "exportOptions": {
@@ -28,11 +28,11 @@
     "do_objectID": "41DCBA2A-DDB7-45D3-8C85-34EC94FE1B00",
     "height": 50,
     "width": 50,
-    "x": 5521,
+    "x": 1739,
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",

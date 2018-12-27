@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49D09716-0840-4262-ADD7-F3F85FB33DCD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4740ECB5-1565-4AC8-AA3F-B664D7291A14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9C8BD6D-533D-48B4-BF8B-12C4FED2C636",
+    "height": 64,
+    "width": 304,
+    "x": 0,
+    "y": 64
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "team2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6F03F469-D347-4D4D-960E-A79E8E38F232",
+      "overrideName": "F1C669F5-BD91-4BA0-8D74-4A604BFAD762/276CD875-082B-4B12-88D9-5D329572C64C_stringValue",
+      "value": "Team 2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88D7F53C-EBBF-45C1-A3FB-7F1BA66963A2",
+      "overrideName": "DC4ADA0C-E4A6-48B9-9B0C-85A1D2A5FE14/4052E429-A11F-4AED-8E71-C4DCA4C387BE_stringValue",
+      "value": "2 users"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5DA6973-CB64-4024-9004-7DD6E6B76253",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C97D7822-AD6E-4EDE-898D-50B759C2C9EC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

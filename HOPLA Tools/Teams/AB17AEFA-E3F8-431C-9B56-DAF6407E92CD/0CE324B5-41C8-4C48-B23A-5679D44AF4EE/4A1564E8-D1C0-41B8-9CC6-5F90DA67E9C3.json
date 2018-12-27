@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Snackbar / with Action / Single-line",
-  "nameIsFixed": false,
+  "name": "user_action_required",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
