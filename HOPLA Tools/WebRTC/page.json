@@ -63,22 +63,6 @@
     {
       "class": "artboard",
       "id": "8B9340A5-CEAC-4269-B898-7465BFD432C6"
-    },
-    {
-      "class": "artboard",
-      "id": "ECF7F4FD-0BA6-4DFD-BA84-EC6F5C27D0FF"
-    },
-    {
-      "class": "artboard",
-      "id": "4955732D-B696-454A-A87C-F73051DC4C05"
-    },
-    {
-      "class": "artboard",
-      "id": "A45CD92F-CB47-4562-96B5-E904829F237A"
-    },
-    {
-      "class": "artboard",
-      "id": "A1FE998C-1A6F-425C-AA3C-205026B24841"
     }
   ],
   "name": "WebRTC",

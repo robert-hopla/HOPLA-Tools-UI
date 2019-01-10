@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "554CD615-D786-4F74-9799-14926B08F544",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94E7269B-FC0F-49A7-BE16-DCD789B62231",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FBD4F072-42EE-499D-B758-6536813B13F3",
+    "height": 36,
+    "width": 96,
+    "x": 107,
+    "y": 228
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "book",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED566DF1-9D28-466E-8BB9-FB244255BA31",
+      "overrideName": "471495BD-48B8-4CAF-A33E-1730F2E2B79B/856FB902-8190-4D3F-BECF-30AC63598E43_stringValue",
+      "value": "Book"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "57373D6D-2B58-4F4A-9DD9-41F71A0592AF",
+      "overrideName": "08C5F435-D882-483C-83F5-D398A89DAE4A_symbolID",
+      "value": "BAF7297C-DDB3-4334-AE78-1AA109C95DD2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FA44F14-9A61-47D3-9016-ABB4E8F911D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E1949455-3BBC-490F-A8C4-5D22964FF8BF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
